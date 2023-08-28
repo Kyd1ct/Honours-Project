@@ -1,0 +1,133 @@
+Volatility 3 Framework 2.4.1
+
+PID	PPID	ImageFileName	Offset(V)	Threads	Handles	SessionId	Wow64	CreateTime	ExitTime
+
+4	0	System	0xba87f687d040	194	-	N/A	False	2023-02-23 22:51:58.000000 	N/A
+* 136	4	Registry	0xba87f69cb040	4	-	N/A	False	2023-02-23 22:51:56.000000 	N/A
+* 1808	4	MemCompression	0xba87fdebb040	22	-	N/A	False	2023-02-23 14:52:01.000000 	N/A
+* 360	4	smss.exe	0xba87f8dcc080	2	-	N/A	False	2023-02-23 22:51:58.000000 	N/A
+452	440	csrss.exe	0xba87fcbe0080	13	-	0	False	2023-02-23 22:51:59.000000 	N/A
+528	440	wininit.exe	0xba87fcdc2540	1	-	0	False	2023-02-23 22:51:59.000000 	N/A
+* 672	528	services.exe	0xba87fda16080	7	-	0	False	2023-02-23 22:51:59.000000 	N/A
+** 4608	672	svchost.exe	0xba87fecf3540	1	-	0	False	2023-02-23 14:58:03.000000 	N/A
+** 1540	672	svchost.exe	0xba87fddc5080	11	-	0	False	2023-02-23 22:52:00.000000 	N/A
+** 1036	672	svchost.exe	0xba87fe753080	4	-	0	False	2023-02-23 14:52:07.000000 	N/A
+** 1048	672	svchost.exe	0xba87fdc520c0	1	-	0	False	2023-02-23 22:52:00.000000 	N/A
+** 2072	672	svchost.exe	0xba87f68b6080	12	-	0	False	2023-02-23 14:52:01.000000 	N/A
+** 6684	672	svchost.exe	0xba87ff0e7080	18	-	0	False	2023-02-28 16:31:27.000000 	N/A
+** 1056	672	svchost.exe	0xba87fdc57080	1	-	0	False	2023-02-23 22:52:00.000000 	N/A
+** 2088	672	svchost.exe	0xba87f68ac080	3	-	0	False	2023-02-23 14:52:01.000000 	N/A
+** 2096	672	svchost.exe	0xba87f68d9080	4	-	0	False	2023-02-23 14:52:01.000000 	N/A
+** 5680	672	svchost.exe	0xba87ff0e0080	2	-	0	False	2023-02-27 13:05:02.000000 	N/A
+** 3120	672	svchost.exe	0xba87fc68e080	3	-	0	False	2023-02-28 16:31:26.000000 	N/A
+** 1092	672	svchost.exe	0xba87feea1080	8	-	0	False	2023-02-23 14:54:04.000000 	N/A
+** 4168	672	svchost.exe	0xba87fda6b540	5	-	0	False	2023-02-23 14:52:07.000000 	N/A
+** 1636	672	svchost.exe	0xba87f6906080	5	-	0	False	2023-02-23 14:52:01.000000 	N/A
+** 2164	672	svchost.exe	0xba87fdfb7080	3	-	0	False	2023-02-23 14:52:01.000000 	N/A
+** 2676	672	ruby.exe	0xba87fe10d080	9	-	0	False	2023-02-23 14:52:01.000000 	N/A
+** 1144	672	svchost.exe	0xba8800990540	5	-	0	False	2023-02-28 16:13:55.000000 	N/A
+** 2684	672	svchost.exe	0xba87fe10a0c0	6	-	0	False	2023-02-23 14:52:01.000000 	N/A
+** 1664	672	svchost.exe	0xba87fde06080	5	-	0	False	2023-02-23 14:52:01.000000 	N/A
+** 2692	672	svchost.exe	0xba87fe10c080	16	-	0	False	2023-02-23 14:52:01.000000 	N/A
+** 1164	672	svchost.exe	0xba87fdc692c0	2	-	0	False	2023-02-23 22:52:00.000000 	N/A
+** 2700	672	svchost.exe	0xba87fe113080	3	-	0	False	2023-02-23 14:52:01.000000 	N/A
+** 2188	672	svchost.exe	0xba87fe7a3080	6	-	0	False	2023-02-23 14:52:07.000000 	N/A
+** 6796	672	svchost.exe	0xba87febf4540	8	-	0	False	2023-02-23 14:53:03.000000 	N/A
+** 1680	672	svchost.exe	0xba87fde08080	3	-	0	False	2023-02-23 14:52:01.000000 	N/A
+** 2708	672	wlms.exe	0xba87fe117080	2	-	0	False	2023-02-23 14:52:01.000000 	N/A
+** 2716	672	svchost.exe	0xba87fe13d0c0	1	-	0	False	2023-02-23 14:52:01.000000 	N/A
+** 1696	672	svchost.exe	0xba87fde1f080	4	-	0	False	2023-02-23 14:52:01.000000 	N/A
+** 2724	672	svchost.exe	0xba87fe114080	15	-	0	False	2023-02-23 14:52:01.000000 	N/A
+** 2732	672	svchost.exe	0xba87fe140080	5	-	0	False	2023-02-23 14:52:01.000000 	N/A
+** 1204	672	svchost.exe	0xba87fdc81080	14	-	0	False	2023-02-23 22:52:00.000000 	N/A
+*** 4176	1204	cmd.exe	0xba87fecae080	1	-	0	False	2023-02-23 14:54:04.000000 	N/A
+**** 6548	4176	conhost.exe	0xba87fefe9080	4	-	0	False	2023-02-23 14:54:04.000000 	N/A
+*** 6300	1204	cmd.exe	0xba87fdb5f540	1	-	0	False	2023-02-23 14:52:53.000000 	N/A
+**** 3672	6300	conhost.exe	0xba87fdabf540	4	-	0	False	2023-02-23 14:52:53.000000 	N/A
+*** 3684	1204	taskhostw.exe	0xba87fe751080	11	-	1	False	2023-02-23 14:52:07.000000 	N/A
+** 2228	672	svchost.exe	0xba87fdfeb080	3	-	0	False	2023-02-23 14:52:01.000000 	N/A
+** 5824	672	TrustedInstall	0xba87fe536080	6	-	0	False	2023-02-28 16:31:25.000000 	N/A
+** 4292	672	svchost.exe	0xba87fe8bc080	3	-	0	False	2023-02-23 14:52:07.000000 	N/A
+*** 4336	4292	ctfmon.exe	0xba87fe8c0080	11	-	1	False	2023-02-23 14:52:07.000000 	N/A
+** 4304	672	svchost.exe	0xba87fecdf080	1	-	1	False	2023-02-23 14:54:05.000000 	N/A
+** 7892	672	svchost.exe	0xba87f8555540	4	-	0	False	2023-02-28 16:31:31.000000 	N/A
+** 2784	672	OfficeClickToR	0xba87fe152080	20	-	0	False	2023-02-23 14:52:01.000000 	N/A
+** 4848	672	svchost.exe	0xba87fead80c0	9	-	1	False	2023-02-23 14:52:08.000000 	N/A
+** 1780	672	svchost.exe	0xba87fdeb1080	15	-	0	False	2023-02-23 14:52:01.000000 	N/A
+** 760	672	svchost.exe	0xba87feece080	1	-	0	False	2023-02-23 14:54:03.000000 	N/A
+** 2812	672	svchost.exe	0xba87ff365080	5	-	0	False	2023-02-23 14:54:04.000000 	N/A
+** 4352	672	svchost.exe	0xba88004d1540	5	-	0	False	2023-02-28 16:13:48.000000 	N/A
+** 3840	672	svchost.exe	0xba87fe4d6080	13	-	0	False	2023-02-28 16:31:26.000000 	N/A
+** 1288	672	svchost.exe	0xba87fdd0f540	8	-	0	False	2023-02-23 22:52:00.000000 	N/A
+** 4908	672	SgrmBroker.exe	0xba87ff364080	3	-	0	False	2023-02-23 14:54:04.000000 	N/A
+** 816	672	svchost.exe	0xba87fda75540	1	-	0	False	2023-02-23 22:51:59.000000 	N/A
+** 2360	672	spoolsv.exe	0xba87fe0350c0	7	-	0	False	2023-02-23 14:52:01.000000 	N/A
+** 836	672	svchost.exe	0xba87fdbfb240	3	-	0	False	2023-02-23 22:52:00.000000 	N/A
+** 2896	672	svchost.exe	0xba87fe216080	6	-	0	False	2023-02-23 14:52:01.000000 	N/A
+** 856	672	svchost.exe	0xba87fcde5540	18	-	0	False	2023-02-23 22:51:59.000000 	N/A
+*** 5756	856	dllhost.exe	0xba87ff26f080	4	-	0	False	2023-02-23 14:52:11.000000 	N/A
+*** 3680	856	dllhost.exe	0xba87fe7a0080	5	-	1	False	2023-02-23 14:52:15.000000 	N/A
+*** 640	856	MicrosoftEdge.	0xba87fc68d540	0	-	1	False	2023-02-27 13:05:01.000000 	2023-02-27 13:05:08.000000 
+*** 3528	856	dllhost.exe	0xba880059d540	2	-	1	False	2023-02-27 13:09:46.000000 	N/A
+*** 5148	856	SearchUI.exe	0xba87fed08080	53	-	1	False	2023-02-23 14:52:08.000000 	N/A
+*** 5328	856	RuntimeBroker.	0xba87feff5080	2	-	1	False	2023-02-23 14:52:08.000000 	N/A
+*** 6064	856	RuntimeBroker.	0xba87ff5a2540	2	-	1	False	2023-02-23 14:52:14.000000 	N/A
+*** 2960	856	WindowsInterna	0xba87ff2bf540	32	-	1	False	2023-02-23 14:55:26.000000 	N/A
+*** 3928	856	ApplicationFra	0xba87f8c83540	2	-	1	False	2023-02-27 13:05:01.000000 	N/A
+*** 5364	856	RuntimeBroker.	0xba87fed9a080	5	-	1	False	2023-02-23 14:52:08.000000 	N/A
+*** 7188	856	TiWorker.exe	0xba87fee51540	5	-	0	False	2023-02-28 16:31:25.000000 	N/A
+*** 5200	856	WmiPrvSE.exe	0xba88010a2080	7	-	0	False	2023-02-28 16:31:28.000000 	N/A
+*** 1528	856	dllhost.exe	0xba87fdd18080	4	-	1	False	2023-02-27 13:02:42.000000 	N/A
+*** 4284	856	ShellExperienc	0xba87febda0c0	17	-	1	False	2023-02-23 14:52:08.000000 	N/A
+** 5464	672	svchost.exe	0xba87fe35d080	9	-	0	False	2023-02-23 14:54:03.000000 	N/A
+** 1376	672	svchost.exe	0xba87fdd690c0	7	-	0	False	2023-02-23 22:52:00.000000 	N/A
+** 7012	672	svchost.exe	0xba87ff28c080	4	-	0	False	2023-02-23 14:52:21.000000 	N/A
+** 1896	672	svchost.exe	0xba87f684e080	2	-	0	False	2023-02-23 14:52:01.000000 	N/A
+** 2408	672	svchost.exe	0xba87fe040080	12	-	0	False	2023-02-23 14:52:01.000000 	N/A
+** 2928	672	svchost.exe	0xba87fe21b080	5	-	0	False	2023-02-23 14:52:01.000000 	N/A
+** 2424	672	svchost.exe	0xba87ff2c6540	4	-	0	False	2023-02-23 14:58:03.000000 	N/A
+** 2428	672	svchost.exe	0xba87fdc3a080	4	-	0	False	2023-02-27 13:03:58.000000 	N/A
+** 6016	672	svchost.exe	0xba87fefd5080	6	-	0	False	2023-02-23 14:54:05.000000 	N/A
+** 6532	672	svchost.exe	0xba87fedc5540	2	-	0	False	2023-02-27 13:03:01.000000 	N/A
+** 2444	672	svchost.exe	0xba87fe06c080	6	-	0	False	2023-02-23 14:52:01.000000 	N/A
+** 5516	672	SecurityHealth	0xba87fe6fa080	6	-	0	False	2023-02-23 14:56:05.000000 	N/A
+** 916	672	svchost.exe	0xba87fe1ad080	8	-	0	False	2023-02-23 14:54:03.000000 	N/A
+** 1960	672	svchost.exe	0xba87f691a080	2	-	0	False	2023-02-23 14:52:01.000000 	N/A
+** 1968	672	svchost.exe	0xba87f691d080	5	-	0	False	2023-02-23 14:52:01.000000 	N/A
+** 1976	672	svchost.exe	0xba87f6919080	13	-	0	False	2023-02-23 14:52:01.000000 	N/A
+** 6584	672	svchost.exe	0xba88004e4080	9	-	0	False	2023-02-28 16:31:30.000000 	N/A
+** 1468	672	svchost.exe	0xba87fdd830c0	3	-	0	False	2023-02-23 22:52:00.000000 	N/A
+** 956	672	svchost.exe	0xba87fdb1e240	9	-	0	False	2023-02-23 22:51:59.000000 	N/A
+** 4028	672	svchost.exe	0xba87fe6af080	2	-	1	False	2023-02-23 14:52:07.000000 	N/A
+** 5056	672	SearchIndexer.	0xba87feb57080	13	-	0	False	2023-02-23 14:52:08.000000 	N/A
+*** 7944	5056	SearchFilterHo	0xba87feaf1080	4	-	0	False	2023-02-28 16:31:29.000000 	N/A
+*** 6820	5056	SearchProtocol	0xba88007a9080	7	-	0	False	2023-02-28 16:31:29.000000 	N/A
+** 3016	672	svchost.exe	0xba87fe2a4080	4	-	0	False	2023-02-23 14:52:01.000000 	N/A
+** 5068	672	svchost.exe	0xba87ff261080	0	-	0	False	2023-02-23 14:55:01.000000 	2023-02-23 14:55:06.000000 
+** 1496	672	VBoxService.ex	0xba87fddb7540	11	-	0	False	2023-02-23 22:52:00.000000 	N/A
+** 2532	672	svchost.exe	0xba87fe0ce080	4	-	0	False	2023-02-23 14:52:01.000000 	N/A
+** 4068	672	svchost.exe	0xba87fe6be080	3	-	1	False	2023-02-23 14:52:07.000000 	N/A
+** 2540	672	svchost.exe	0xba87fdfed080	3	-	0	False	2023-02-23 14:52:01.000000 	N/A
+** 1008	672	svchost.exe	0xba87fdb5b080	4	-	0	False	2023-02-23 22:51:59.000000 	N/A
+** 3056	672	svchost.exe	0xba87fe211080	11	-	0	False	2023-02-23 14:52:01.000000 	N/A
+** 1524	672	svchost.exe	0xba87fdb39540	2	-	0	False	2023-02-23 14:58:10.000000 	N/A
+** 1532	672	svchost.exe	0xba87fddc1540	4	-	0	False	2023-02-23 22:52:00.000000 	N/A
+*** 4000	1532	sihost.exe	0xba87fe640080	7	-	1	False	2023-02-23 14:52:07.000000 	N/A
+* 840	528	fontdrvhost.ex	0xba87fda85540	5	-	0	False	2023-02-23 22:51:59.000000 	N/A
+* 680	528	lsass.exe	0xba87fda19080	8	-	0	False	2023-02-23 22:51:59.000000 	N/A
+544	520	csrss.exe	0xba87fcdc9400	12	-	1	False	2023-02-23 22:51:59.000000 	N/A
+628	520	winlogon.exe	0xba87fda07240	3	-	1	False	2023-02-23 22:51:59.000000 	N/A
+* 848	628	fontdrvhost.ex	0xba87fda8b080	5	-	1	False	2023-02-23 22:51:59.000000 	N/A
+* 4652	628	userinit.exe	0xba87fe9e5300	0	-	1	False	2023-02-23 14:52:07.000000 	2023-02-23 14:52:31.000000 
+** 4688	4652	explorer.exe	0xba87fe9eb080	106	-	1	False	2023-02-23 14:52:07.000000 	N/A
+*** 6336	4688	VBoxTray.exe	0xba87fcb634c0	11	-	1	False	2023-02-23 14:52:19.000000 	N/A
+*** 7044	4688	chrome.exe	0xba87fc6902c0	0	-	1	False	2023-02-28 16:14:23.000000 	2023-02-28 16:14:28.000000 
+*** 1548	4688	Procmon.exe	0xba87fdd88540	1	-	1	True	2023-02-28 16:11:42.000000 	N/A
+**** 6428	1548	Procmon64.exe	0xba880098d080	26	-	1	False	2023-02-28 16:11:42.000000 	N/A
+*** 1868	4688	cmd.exe	0xba87fdde3540	3	-	1	False	2023-02-28 16:32:34.000000 	N/A
+**** 5768	1868	conhost.exe	0xba88008ea540	7	-	1	False	2023-02-28 16:32:34.000000 	N/A
+**** 7488	1868	winpmem_mini_x	0xba88005df540	4	-	1	False	2023-02-28 16:32:44.000000 	N/A
+* 408	628	dwm.exe	0xba87fdabd540	19	-	1	False	2023-02-23 22:52:00.000000 	N/A
+6544	6408	Teams.exe	0xba87fece5080	0	-	1	False	2023-02-23 14:52:20.000000 	2023-02-23 14:52:28.000000 
+7372	7224	tcpview.exe	0xba8800583080	4	-	1	True	2023-02-28 16:11:45.000000 	N/A
+7816	7796	fzpceresm.exe	0xba87f8ce3540	5	-	1	True	2023-02-28 16:12:31.000000 	N/A

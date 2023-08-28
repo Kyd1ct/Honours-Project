@@ -1,0 +1,132 @@
+Volatility 3 Framework 2.4.1
+
+PID	Process	Args
+
+4	System	Required memory at 0x20 is not valid (process exited?)
+136	Registry	Required memory at 0x20 is not valid (process exited?)
+360	smss.exe	\SystemRoot\System32\smss.exe
+452	csrss.exe	%SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,20480,768 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16
+528	wininit.exe	wininit.exe
+544	csrss.exe	%SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,20480,768 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16
+628	winlogon.exe	winlogon.exe
+672	services.exe	C:\Windows\system32\services.exe
+680	lsass.exe	C:\Windows\system32\lsass.exe
+816	svchost.exe	C:\Windows\system32\svchost.exe -k DcomLaunch -p -s PlugPlay
+840	fontdrvhost.ex	"fontdrvhost.exe"
+848	fontdrvhost.ex	"fontdrvhost.exe"
+856	svchost.exe	C:\Windows\system32\svchost.exe -k DcomLaunch -p
+956	svchost.exe	C:\Windows\system32\svchost.exe -k RPCSS -p
+1008	svchost.exe	C:\Windows\system32\svchost.exe -k DcomLaunch -p -s LSM
+408	dwm.exe	"dwm.exe"
+836	svchost.exe	C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted -p -s lmhosts
+1048	svchost.exe	C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted -p -s NcbService
+1056	svchost.exe	C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted -p -s TimeBrokerSvc
+1164	svchost.exe	C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork -p
+1204	svchost.exe	C:\Windows\system32\svchost.exe -k netsvcs -p -s Schedule
+1288	svchost.exe	C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted -p -s EventLog
+1376	svchost.exe	C:\Windows\system32\svchost.exe -k netsvcs -p -s ProfSvc
+1468	svchost.exe	C:\Windows\system32\svchost.exe -k LocalService -p -s nsi
+1496	VBoxService.ex	C:\Windows\System32\VBoxService.exe
+1532	svchost.exe	C:\Windows\system32\svchost.exe -k netsvcs -p -s UserManager
+1540	svchost.exe	C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted -p -s Dhcp
+1664	svchost.exe	C:\Windows\system32\svchost.exe -k LocalSystemNetworkRestricted -p -s SysMain
+1680	svchost.exe	C:\Windows\System32\svchost.exe -k netsvcs -p -s Themes
+1696	svchost.exe	C:\Windows\system32\svchost.exe -k LocalService -p -s EventSystem
+1780	svchost.exe	C:\Windows\System32\svchost.exe -k NetworkService -p -s NlaSvc
+1808	MemCompression	Required memory at 0x20 is not valid (process exited?)
+1896	svchost.exe	C:\Windows\system32\svchost.exe -k netsvcs -p -s SENS
+1960	svchost.exe	C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted -p -s AudioEndpointBuilder
+1968	svchost.exe	C:\Windows\system32\svchost.exe -k LocalService -p -s FontCache
+1976	svchost.exe	C:\Windows\System32\svchost.exe -k LocalService -p -s netprofm
+1636	svchost.exe	C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted -p
+2072	svchost.exe	C:\Windows\system32\svchost.exe -k NetworkService -p -s Dnscache
+2088	svchost.exe	C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted -p
+2096	svchost.exe	C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted -p
+2164	svchost.exe	C:\Windows\System32\svchost.exe -k netsvcs -p -s ShellHWDetection
+2228	svchost.exe	C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted -p -s WinHttpAutoProxySvc
+2360	spoolsv.exe	C:\Windows\System32\spoolsv.exe
+2408	svchost.exe	C:\Windows\system32\svchost.exe -k LocalServiceNoNetworkFirewall -p
+2444	svchost.exe	C:\Windows\System32\svchost.exe -k NetworkService -p -s LanmanWorkstation
+2532	svchost.exe	C:\Windows\system32\svchost.exe -k netsvcs -p -s IKEEXT
+2540	svchost.exe	C:\Windows\system32\svchost.exe -k NetworkServiceNetworkRestricted -p -s PolicyAgent
+2676	ruby.exe	"C:\Program Files\Puppet Labs\Puppet\sys\ruby\bin\ruby.exe" -rubygems "C:\Program Files\Puppet Labs\Puppet\service\daemon.rb"
+2684	svchost.exe	C:\Windows\system32\svchost.exe -k NetworkService -p -s CryptSvc
+2692	svchost.exe	C:\Windows\System32\svchost.exe -k LocalServiceNoNetwork -p -s DPS
+2700	svchost.exe	C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted -p -s TrkWks
+2708	wlms.exe	C:\Windows\system32\wlms\wlms.exe
+2716	svchost.exe	C:\Windows\system32\svchost.exe -k LocalService -p -s SstpSvc
+2724	svchost.exe	C:\Windows\system32\svchost.exe -k netsvcs -p -s Winmgmt
+2732	svchost.exe	C:\Windows\system32\svchost.exe -k netsvcs -p -s WpnService
+2784	OfficeClickToR	"C:\Program Files\Common Files\Microsoft Shared\ClickToRun\OfficeClickToRun.exe" /service
+2896	svchost.exe	C:\Windows\system32\svchost.exe -k netsvcs -p -s LanmanServer
+2928	svchost.exe	C:\Windows\System32\svchost.exe -k NetSvcs -p -s iphlpsvc
+3016	svchost.exe	C:\Windows\System32\svchost.exe -k LocalService -p -s WdiServiceHost
+3056	svchost.exe	C:\Windows\System32\svchost.exe -k netsvcs
+4000	sihost.exe	sihost.exe
+4028	svchost.exe	C:\Windows\system32\svchost.exe -k UnistackSvcGroup -s CDPUserSvc
+4068	svchost.exe	C:\Windows\system32\svchost.exe -k UnistackSvcGroup -s WpnUserService
+3684	taskhostw.exe	taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E}
+1036	svchost.exe	C:\Windows\system32\svchost.exe -k netsvcs -p -s TokenBroker
+2188	svchost.exe	C:\Windows\system32\svchost.exe -k appmodel -p -s StateRepository
+4168	svchost.exe	C:\Windows\system32\svchost.exe -k LocalService -p -s CDPSvc
+4292	svchost.exe	C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted -p -s TabletInputService
+4336	ctfmon.exe	"ctfmon.exe"
+4652	userinit.exe	Required memory at 0x422e23b020 is not valid (process exited?)
+4688	explorer.exe	C:\Windows\Explorer.EXE
+4848	svchost.exe	C:\Windows\system32\svchost.exe -k ClipboardSvcGroup -p -s cbdhsvc
+5056	SearchIndexer.	C:\Windows\system32\SearchIndexer.exe /Embedding
+4284	ShellExperienc	"C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe" -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca
+5148	SearchUI.exe	"C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe" -ServerName:CortanaUI.AppXa50dqqa5gqv4a428c9y1jjw7m3btvepj.mca
+5328	RuntimeBroker.	C:\Windows\System32\RuntimeBroker.exe -Embedding
+5364	RuntimeBroker.	C:\Windows\System32\RuntimeBroker.exe -Embedding
+5756	dllhost.exe	C:\Windows\system32\DllHost.exe /Processid:{3EB3C877-1F16-487C-9050-104DBCD66683}
+6064	RuntimeBroker.	C:\Windows\System32\RuntimeBroker.exe -Embedding
+3680	dllhost.exe	C:\Windows\system32\DllHost.exe /Processid:{973D20D7-562D-44B9-B70B-5A0F49CCDF3F}
+6336	VBoxTray.exe	"C:\Windows\System32\VBoxTray.exe" 
+6544	Teams.exe	Required memory at 0x7852d0a020 is not valid (process exited?)
+7012	svchost.exe	C:\Windows\system32\svchost.exe -k netsvcs -p -s Appinfo
+6300	cmd.exe	cmd.exe C:\Windows\system32\MusNotification.exe LogonUpdateResults
+3672	conhost.exe	\??\C:\Windows\system32\conhost.exe 0x4
+6796	svchost.exe	C:\Windows\system32\svchost.exe -k LocalSystemNetworkRestricted -p -s PcaSvc
+916	svchost.exe	C:\Windows\system32\svchost.exe -k LocalServiceAndNoImpersonation -p -s SSDPSRV
+5464	svchost.exe	C:\Windows\System32\svchost.exe -k NetworkService -p -s DoSvc
+760	svchost.exe	C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted -p -s StorSvc
+4908	SgrmBroker.exe	C:\Windows\system32\SgrmBroker.exe
+1092	svchost.exe	C:\Windows\system32\svchost.exe -k netsvcs -p -s UsoSvc
+4176	cmd.exe	cmd.exe C:\Windows\system32\MusNotification.exe
+6548	conhost.exe	\??\C:\Windows\system32\conhost.exe 0x4
+2812	svchost.exe	C:\Windows\System32\svchost.exe -k NetworkService -p -s WinRM
+6016	svchost.exe	C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted -p -s wscsvc
+4304	svchost.exe	C:\Windows\system32\svchost.exe -k UnistackSvcGroup
+5068	svchost.exe	Required memory at 0x5be1799020 is not valid (process exited?)
+2960	WindowsInterna	"C:\Windows\SystemApps\InputApp_cw5n1h2txyewy\WindowsInternal.ComposableShell.Experiences.TextInput.InputApp.exe" -ServerName:App.AppXagta193n5rpf7mheremt3yyfa1g555vc.mca
+5516	SecurityHealth	C:\Windows\system32\SecurityHealthService.exe
+4608	svchost.exe	C:\Windows\system32\svchost.exe -k LocalService -p -s fdPHost
+2424	svchost.exe	C:\Windows\system32\svchost.exe -k LocalServiceAndNoImpersonation -p -s FDResPub
+1524	svchost.exe	C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted -p -s Netman
+1528	dllhost.exe	C:\Windows\system32\DllHost.exe /Processid:{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5}
+6532	svchost.exe	C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted -p -s WdiSystemHost
+2428	svchost.exe	C:\Windows\system32\svchost.exe -k LocalService -s W32Time
+3928	ApplicationFra	C:\Windows\system32\ApplicationFrameHost.exe -Embedding
+640	MicrosoftEdge.	Required memory at 0x28af2f6020 is not valid (process exited?)
+5680	svchost.exe	C:\Windows\system32\svchost.exe -k LocalService -p -s BthAvctpSvc
+3036	svchost.exe	C:\Windows\system32\svchost.exe -k netsvcs -p -s gpsvc
+3528	dllhost.exe	C:\Windows\system32\DllHost.exe /Processid:{3AD05575-8857-4850-9277-11B85BDB8E09}
+5696	chrome.exe	Required memory at 0x2a2bf68020 is not valid (process exited?)
+4016	upfc.exe	C:\Windows\System32\Upfc.exe /launchtype periodic /cv bf60kCZOlE2vEfcnNA1BUw.0
+720	GoogleUpdate.e	"C:\Program Files (x86)\Google\Update\GoogleUpdate.exe" /c
+1820	OneDriveStanda	"C:\Program Files (x86)\Microsoft OneDrive\OneDriveStandaloneUpdater.exe"
+4448	OneDriveStanda	"C:\Program Files (x86)\Microsoft OneDrive\OneDriveStandaloneUpdater.exe" /reporting
+6168	svchost.exe	C:\Windows\system32\svchost.exe -k netsvcs -p -s wuauserv
+5044	svchost.exe	C:\Windows\System32\svchost.exe -k netsvcs -p -s BITS
+880	smartscreen.ex	Required memory at 0x29e598f2588 is not valid (process exited?)
+656	cmd.exe	"cmd.exe" /s /k pushd "C:\Users\IEUser\Desktop\Malware_Samples\NotPetya"
+3904	conhost.exe	\??\C:\Windows\system32\conhost.exe 0x4
+2556	rundll32.exe	rundll32  Ransomware.NotPetya.dat, #1
+6608	rundll32.exe	rundll32  Ransomware.NotPetya.dat, #1
+704	cmd.exe	Required memory at 0x2c92020 is not valid (process exited?)
+2008	EAE7.tmp	Required memory at 0x345020 is not valid (process exited?)
+1096	cmd.exe	"cmd.exe" /s /k pushd "C:\Users\IEUser\Desktop"
+116	conhost.exe	\??\C:\Windows\system32\conhost.exe 0x4
+2672	winpmem_mini_x	winpmem_mini_x64_rc2.exe  memory.raw
+6592	Taskmgr.exe	"C:\Windows\system32\taskmgr.exe" /4

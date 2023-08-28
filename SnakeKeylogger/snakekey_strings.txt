@@ -1,0 +1,304 @@
+FLOSS static ASCII strings
+!This program cannot be run in DOS mode.
+NulluN	E
+D$,+D$$P
+SETUPAPI
+CRYPTBASE
+RichEd32
+RichEd20
+RegEnumValueW
+RegEnumKeyW
+RegQueryValueExW
+RegSetValueExW
+RegCloseKey
+RegDeleteValueW
+RegDeleteKeyW
+AdjustTokenPrivileges
+LookupPrivilegeValueW
+OpenProcessToken
+SetFileSecurityW
+RegOpenKeyExW
+RegCreateKeyExW
+ADVAPI32.dll
+SHFileOperationW
+SHGetFileInfoW
+SHBrowseForFolderW
+SHGetPathFromIDListW
+ShellExecuteExW
+SHGetSpecialFolderLocation
+SHELL32.dll
+CoTaskMemFree
+IIDFromString
+CoCreateInstance
+OleUninitialize
+OleInitialize
+ole32.dll
+ImageList_Destroy
+ImageList_AddMasked
+ImageList_Create
+COMCTL32.dll
+EndPaint
+DrawTextW
+FillRect
+GetClientRect
+BeginPaint
+DefWindowProcW
+SendMessageW
+InvalidateRect
+EnableWindow
+ReleaseDC
+LoadImageW
+SetWindowLongW
+GetDlgItem
+IsWindow
+FindWindowExW
+SendMessageTimeoutW
+wsprintfW
+ShowWindow
+SetForegroundWindow
+PostQuitMessage
+SetWindowTextW
+SetTimer
+CreateDialogParamW
+DestroyWindow
+ExitWindowsEx
+CharNextW
+DialogBoxParamW
+GetClassInfoW
+CreateWindowExW
+SystemParametersInfoW
+RegisterClassW
+EndDialog
+ScreenToClient
+GetWindowRect
+EnableMenuItem
+GetSystemMenu
+SetClassLongW
+IsWindowEnabled
+GetWindowLongW
+SetWindowPos
+GetSysColor
+SetCursor
+LoadCursorW
+CheckDlgButton
+GetMessagePos
+CallWindowProcW
+IsWindowVisible
+CloseClipboard
+SetClipboardData
+EmptyClipboard
+OpenClipboard
+TrackPopupMenu
+AppendMenuW
+CreatePopupMenu
+GetSystemMetrics
+SetDlgItemTextW
+GetDlgItemTextW
+MessageBoxIndirectW
+CharPrevW
+CharNextA
+wsprintfA
+DispatchMessageW
+PeekMessageW
+USER32.dll
+SelectObject
+SetTextColor
+SetBkMode
+CreateFontIndirectW
+CreateBrushIndirect
+DeleteObject
+GetDeviceCaps
+SetBkColor
+GDI32.dll
+DeleteFileW
+FindFirstFileW
+FindNextFileW
+FindClose
+SetFilePointer
+ReadFile
+MultiByteToWideChar
+lstrlenA
+GetPrivateProfileStringW
+WritePrivateProfileStringW
+FreeLibrary
+LoadLibraryExW
+GetModuleHandleW
+GlobalAlloc
+GlobalFree
+ExpandEnvironmentStringsW
+lstrcmpW
+lstrcmpiW
+CloseHandle
+SetFileTime
+CompareFileTime
+SearchPathW
+GetShortPathNameW
+GetFullPathNameW
+MoveFileW
+SetCurrentDirectoryW
+GetFileAttributesW
+SetFileAttributesW
+GetTickCount
+CreateFileW
+GetFileSize
+GetModuleFileNameW
+GetCurrentProcess
+ExitProcess
+CopyFileW
+SetEnvironmentVariableW
+GetWindowsDirectoryW
+GetTempPathW
+GetCommandLineW
+GetVersionExW
+SetErrorMode
+lstrlenW
+lstrcpynW
+WideCharToMultiByte
+GetDiskFreeSpaceW
+GlobalUnlock
+GlobalLock
+CreateThread
+GetLastError
+CreateDirectoryW
+CreateProcessW
+RemoveDirectoryW
+lstrcmpiA
+GetTempFileNameW
+WriteFile
+lstrcpyA
+MoveFileExW
+lstrcatW
+GetSystemDirectoryW
+GetProcAddress
+GetModuleHandleA
+GetExitCodeProcess
+WaitForSingleObject
+KERNEL32.dll
+VerQueryValueW
+GetFileVersionInfoW
+GetFileVersionInfoSizeW
+SHGetFolderPathW
+SHFOLDER
+SHAutoComplete
+SHGetKnownFolderPath
+InitiateShutdownW
+RegDeleteKeyExW
+ADVAPI32
+GetUserDefaultUILanguage
+GetDiskFreeSpaceExW
+SetDefaultDllDirectories
+KERNEL32
+[Rename]
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0"><assemblyIdentity version="1.0.0.0" processorArchitecture="*" name="Nullsoft.NSIS.exehead" type="win32"/><description>Nullsoft Install System v3.08</description><trustInfo xmlns="urn:schemas-microsoft-com:asm.v3"><security><requestedPrivileges><requestedExecutionLevel level="asInvoker" uiAccess="false"/></requestedPrivileges></security></trustInfo><compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1"><application><supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}"/><supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}"/><supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"/><supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/></application></compatibility></assembly>
+NullsoftInstB>
+r#dFZ(`G
+rsNRAT4{
+qhk&dZjm
+H 2U[0Hw
+}Uu[;%g\
+41g:;iF:
+"Xq|(*qmV
+ZF2GzXiyd
+)^1jA]m\
+Vx.|<SMZ
+1H@r/8,(
+TD$6jc\/
+_/	q5'EZWw`
+Mqq&n69E7
+l7Lt{-a3
+BPB!#KU5
+|}K:Nqkv
+&l0h3[6bvpG
+[EJUWVt%
+f<):sME~
+P~:@-{QLjd
+r8HrH2^#i
+OB\H2?L`
+\G{(hi?T
+>'qy`CJ(
+%YZu/f%4h
+{}9v7ud\N
+ _MBX*VK(J
+ &{!n<N/
+ zaOsN.^
+(TJ[@/T<n
+FB442|~l
+4rQX9a!+
+H{s=wD#_m
+s;%F7bhS].
+QMHMLzPX
++uSe}4Ke
+u(^>;_I)pQ
+cF+Nd5HSH
+Pd#Lmo	c
+Wi{eY5qk
+gpk3\wCa`q
+I0cpAbhn
+t}WlaOud
+JTZE&oVU
+2}$W!`d7
+p>`ykUxi
+JhON)"|BpR
+6[(O+9yG
+=bW{?A[&
+Y2o/a[&o&*
+V('FVqT,
+W4OTQdFs4hU
+gTZ{6}Ahw
+X.D635`E0
+uHg~wyk;Ty
+w]j? ABii
+vz;sEt5Q@p
+W>*4ySH4
+!_xf{;l3
+
+FLOSS static Unicode strings
+RichEdit
+RichEdit20W
+.DEFAULT\Control Panel\International
+Control Panel\Desktop\ResourceLocale
+Software\Microsoft\Windows\CurrentVersion
+\Microsoft\Internet Explorer\Quick Launch
+verifying installer: %d%%
+unpacking data: %d%%
+... %d%%
+Installer integrity check has failed. Common causes include
+incomplete download and damaged media. Contact the
+installer's author to obtain a new copy.
+More information at:
+http://nsis.sf.net/NSIS_Error
+Error writing temporary file. Make sure your temp folder is valid.
+Error launching installer
+SeShutdownPrivilege
+NSIS Error
+%u.%u%s%s
+*?|<>/":
+%s%S.dll
+MS Shell Dlg
+MS Shell Dlg
+msctls_progress32
+SysListView32
+MS Shell Dlg
+VS_VERSION_INFO
+StringFileInfo
+040904b0
+CompanyName
+FileDescription
+retreatism
+FileVersion
+25.50.84.7
+LegalCopyright
+Copyright peripteral
+LegalTrademarks
+Canterburian
+ProductName
+25.50.84.7
+VarFileInfo
+Translation
+
+
+FLOSS decoded 0 strings
+
+FLOSS extracted 0 stackstrings
+
+Finished execution after 59.093000 seconds
