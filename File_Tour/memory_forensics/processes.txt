@@ -1,0 +1,181 @@
+Volatility 3 Framework 2.4.1
+
+PID	PPID	ImageFileName	Offset(V)	Threads	Handles	SessionId	Wow64	CreateTime	ExitTime	File output
+
+4	0	System	0xd28eb3869080	175	-	N/A	False	2022-05-19 16:48:58.000000 	N/A	Disabled
+136	4	Registry	0xd28eb39cc040	4	-	N/A	False	2022-05-19 16:48:56.000000 	N/A	Disabled
+364	4	smss.exe	0xd28eb592a0c0	2	-	N/A	False	2022-05-19 16:48:58.000000 	N/A	Disabled
+456	444	csrss.exe	0xd28eb94d4140	12	-	0	False	2022-05-19 16:49:01.000000 	N/A	Disabled
+532	444	wininit.exe	0xd28eba2bb080	1	-	0	False	2022-05-19 16:49:01.000000 	N/A	Disabled
+548	524	csrss.exe	0xd28eba2c9440	14	-	1	False	2022-05-19 16:49:01.000000 	N/A	Disabled
+636	524	winlogon.exe	0xd28eba2ed240	5	-	1	False	2022-05-19 16:49:01.000000 	N/A	Disabled
+680	532	services.exe	0xd28eba311080	9	-	0	False	2022-05-19 16:49:01.000000 	N/A	Disabled
+688	532	lsass.exe	0xd28eba3230c0	9	-	0	False	2022-05-19 16:49:01.000000 	N/A	Disabled
+820	680	svchost.exe	0xd28eba3a30c0	1	-	0	False	2022-05-19 16:49:01.000000 	N/A	Disabled
+844	532	fontdrvhost.ex	0xd28eba3a9080	5	-	0	False	2022-05-19 16:49:01.000000 	N/A	Disabled
+852	636	fontdrvhost.ex	0xd28eba3ac080	5	-	1	False	2022-05-19 16:49:01.000000 	N/A	Disabled
+860	680	svchost.exe	0xd28eba3aa080	22	-	0	False	2022-05-19 16:49:01.000000 	N/A	Disabled
+972	680	svchost.exe	0xd28eba3f1240	17	-	0	False	2022-05-19 16:49:01.000000 	N/A	Disabled
+1016	680	svchost.exe	0xd28ebaa52080	5	-	0	False	2022-05-19 16:49:01.000000 	N/A	Disabled
+404	636	dwm.exe	0xd28ebaaab080	23	-	1	False	2022-05-19 16:49:01.000000 	N/A	Disabled
+396	680	svchost.exe	0xd28ebab10080	3	-	0	False	2022-05-19 16:49:01.000000 	N/A	Disabled
+1112	680	svchost.exe	0xd28ebab42080	5	-	0	False	2022-05-19 16:49:01.000000 	N/A	Disabled
+1120	680	svchost.exe	0xd28ebab6a0c0	6	-	0	False	2022-05-19 16:49:01.000000 	N/A	Disabled
+1168	680	svchost.exe	0xd28ebab76080	16	-	0	False	2022-05-19 16:49:01.000000 	N/A	Disabled
+1184	680	svchost.exe	0xd28ebab950c0	9	-	0	False	2022-05-19 16:49:01.000000 	N/A	Disabled
+1272	680	svchost.exe	0xd28ebabe6080	2	-	0	False	2022-05-19 16:49:01.000000 	N/A	Disabled
+1352	680	svchost.exe	0xd28ebabde080	7	-	0	False	2022-05-19 16:49:01.000000 	N/A	Disabled
+1380	680	svchost.exe	0xd28ebac63080	10	-	0	False	2022-05-19 16:49:01.000000 	N/A	Disabled
+1448	680	svchost.exe	0xd28ebac7f080	16	-	0	False	2022-05-19 16:49:01.000000 	N/A	Disabled
+1536	680	svchost.exe	0xd28ebacef080	10	-	0	False	2022-05-19 16:49:01.000000 	N/A	Disabled
+1604	680	VBoxService.ex	0xd28ebad19080	11	-	0	False	2022-05-19 16:49:01.000000 	N/A	Disabled
+1680	680	svchost.exe	0xd28ebad31080	17	-	0	False	2022-05-19 16:49:01.000000 	N/A	Disabled
+1780	680	svchost.exe	0xd28ebade3080	14	-	0	False	2022-05-19 16:49:01.000000 	N/A	Disabled
+1804	680	svchost.exe	0xd28ebadee080	8	-	0	False	2022-05-19 16:49:01.000000 	N/A	Disabled
+1812	680	svchost.exe	0xd28ebadeb080	9	-	0	False	2022-05-19 16:49:01.000000 	N/A	Disabled
+1820	680	svchost.exe	0xd28ebadf1080	7	-	0	False	2022-05-19 16:49:01.000000 	N/A	Disabled
+1956	680	svchost.exe	0xd28ebae32080	16	-	0	False	2022-05-19 16:49:01.000000 	N/A	Disabled
+1964	4	MemCompression	0xd28ebae47080	42	-	N/A	False	2022-05-19 16:49:01.000000 	N/A	Disabled
+2032	680	svchost.exe	0xd28ebae74080	9	-	0	False	2022-05-19 16:49:01.000000 	N/A	Disabled
+1892	680	svchost.exe	0xd28eb38c1080	2	-	0	False	2022-05-19 16:49:01.000000 	N/A	Disabled
+2056	680	svchost.exe	0xd28eb38cc080	10	-	0	False	2022-05-19 16:49:01.000000 	N/A	Disabled
+2168	680	svchost.exe	0xd28eb38b4080	7	-	0	False	2022-05-19 16:49:01.000000 	N/A	Disabled
+2288	680	svchost.exe	0xd28eb38db080	14	-	0	False	2022-05-19 16:49:01.000000 	N/A	Disabled
+2296	680	svchost.exe	0xd28eb38d7080	3	-	0	False	2022-05-19 16:49:01.000000 	N/A	Disabled
+2336	680	svchost.exe	0xd28ebaf3b080	8	-	0	False	2022-05-19 16:49:01.000000 	N/A	Disabled
+2484	680	spoolsv.exe	0xd28ebaf79080	9	-	0	False	2022-05-19 16:49:01.000000 	N/A	Disabled
+2508	680	svchost.exe	0xd28eb3928080	19	-	0	False	2022-05-19 16:49:01.000000 	N/A	Disabled
+2556	680	svchost.exe	0xd28ebb032080	3	-	0	False	2022-05-19 16:49:01.000000 	N/A	Disabled
+2600	680	svchost.exe	0xd28ebb0b5080	7	-	0	False	2022-05-19 16:49:01.000000 	N/A	Disabled
+2680	680	svchost.exe	0xd28ebb07d080	13	-	0	False	2022-05-19 16:49:01.000000 	N/A	Disabled
+2756	680	svchost.exe	0xd28ebb083080	13	-	0	False	2022-05-19 16:49:01.000000 	N/A	Disabled
+2764	680	svchost.exe	0xd28ebb087080	6	-	0	False	2022-05-19 16:49:01.000000 	N/A	Disabled
+2848	680	svchost.exe	0xd28ebb0d9080	7	-	0	False	2022-05-19 16:49:01.000000 	N/A	Disabled
+2908	680	svchost.exe	0xd28ebb111080	20	-	0	False	2022-05-19 16:49:01.000000 	N/A	Disabled
+2920	680	wlms.exe	0xd28ebb125080	2	-	0	False	2022-05-19 16:49:01.000000 	N/A	Disabled
+2936	680	svchost.exe	0xd28ebb11a080	3	-	0	False	2022-05-19 16:49:01.000000 	N/A	Disabled
+2944	680	svchost.exe	0xd28ebb114080	12	-	0	False	2022-05-19 16:49:01.000000 	N/A	Disabled
+2952	680	svchost.exe	0xd28ebb11d080	17	-	0	False	2022-05-19 16:49:01.000000 	N/A	Disabled
+2964	680	ruby.exe	0xd28ebb129080	9	-	0	False	2022-05-19 16:49:01.000000 	N/A	Disabled
+2176	680	svchost.exe	0xd28ebb1d00c0	20	-	0	False	2022-05-19 16:49:01.000000 	N/A	Disabled
+2624	680	svchost.exe	0xd28ebb1d6080	10	-	0	False	2022-05-19 16:49:01.000000 	N/A	Disabled
+2648	680	svchost.exe	0xd28ebb1db080	4	-	0	False	2022-05-19 16:49:01.000000 	N/A	Disabled
+3732	1536	sihost.exe	0xd28ebb2b4080	15	-	1	False	2022-05-19 16:49:07.000000 	N/A	Disabled
+3764	680	svchost.exe	0xd28ebb2b2080	4	-	1	False	2022-05-19 16:49:07.000000 	N/A	Disabled
+3800	680	svchost.exe	0xd28ebb2b0080	4	-	1	False	2022-05-19 16:49:07.000000 	N/A	Disabled
+3912	680	svchost.exe	0xd28ebb593080	9	-	0	False	2022-05-19 16:49:07.000000 	N/A	Disabled
+3948	680	svchost.exe	0xd28ebb59d080	5	-	0	False	2022-05-19 16:49:07.000000 	N/A	Disabled
+4024	680	svchost.exe	0xd28ebb2ba080	8	-	0	False	2022-05-19 16:49:07.000000 	N/A	Disabled
+4032	3948	ctfmon.exe	0xd28ebb4ec080	11	-	1	False	2022-05-19 16:49:07.000000 	N/A	Disabled
+3116	680	svchost.exe	0xd28ebb62b080	9	-	0	False	2022-05-19 16:49:07.000000 	N/A	Disabled
+3824	636	userinit.exe	0xd28ebb6e0080	0	-	1	False	2022-05-19 16:49:07.000000 	2022-05-19 16:49:30.000000 	Disabled
+2672	3824	explorer.exe	0xd28ebb6ec080	118	-	1	False	2022-05-19 16:49:07.000000 	N/A	Disabled
+4000	1168	taskhostw.exe	0xd28ebb716080	12	-	1	False	2022-05-19 16:49:07.000000 	N/A	Disabled
+4204	680	svchost.exe	0xd28ebb76b080	9	-	1	False	2022-05-19 16:49:07.000000 	N/A	Disabled
+4520	680	SearchIndexer.	0xd28ebb83a3c0	53	-	0	False	2022-05-19 16:49:08.000000 	N/A	Disabled
+4676	860	ShellExperienc	0xd28ebb8de080	20	-	1	False	2022-05-19 16:49:08.000000 	N/A	Disabled
+4828	860	SearchUI.exe	0xd28ebb844080	45	-	1	False	2022-05-19 16:49:08.000000 	N/A	Disabled
+4976	860	RuntimeBroker.	0xd28ebb9bd540	10	-	1	False	2022-05-19 16:49:08.000000 	N/A	Disabled
+5044	860	RuntimeBroker.	0xd28ebbb19080	13	-	1	False	2022-05-19 16:49:08.000000 	N/A	Disabled
+5560	860	RuntimeBroker.	0xd28ebbc5b080	10	-	1	False	2022-05-19 16:49:12.000000 	N/A	Disabled
+5960	2672	VBoxTray.exe	0xd28ebba2d540	13	-	1	False	2022-05-19 16:49:19.000000 	N/A	Disabled
+5872	1168	cmd.exe	0xd28ebbeb3080	1	-	0	False	2022-05-22 11:17:55.000000 	N/A	Disabled
+5880	5872	conhost.exe	0xd28ebb8c10c0	4	-	0	False	2022-05-22 11:17:55.000000 	N/A	Disabled
+4736	1168	cmd.exe	0xd28ebb8724c0	1	-	0	False	2022-05-22 11:17:55.000000 	N/A	Disabled
+6076	680	svchost.exe	0xd28eba2e2080	13	-	0	False	2022-05-22 11:17:55.000000 	N/A	Disabled
+6036	4736	conhost.exe	0xd28ebb536080	4	-	0	False	2022-05-22 11:17:55.000000 	N/A	Disabled
+1636	680	svchost.exe	0xd28ebb2b8080	0	-	0	False	2022-05-22 11:17:56.000000 	2022-05-22 11:18:01.000000 	Disabled
+5752	680	svchost.exe	0xd28ebc2e4080	12	-	0	False	2022-05-22 11:17:57.000000 	N/A	Disabled
+6128	680	svchost.exe	0xd28ebc2ea0c0	7	-	0	False	2022-05-22 11:18:06.000000 	N/A	Disabled
+2216	860	dllhost.exe	0xd28ebc39a080	7	-	1	False	2022-05-22 11:18:14.000000 	N/A	Disabled
+6368	680	svchost.exe	0xd28eb96fc080	14	-	0	False	2022-05-22 11:18:16.000000 	N/A	Disabled
+3112	680	svchost.exe	0xd28eb9414540	10	-	0	False	2022-05-22 11:19:18.000000 	N/A	Disabled
+2932	680	svchost.exe	0xd28ebbc55080	3	-	0	False	2022-05-22 11:19:18.000000 	N/A	Disabled
+6580	680	SgrmBroker.exe	0xd28eb92e2540	3	-	0	False	2022-05-22 11:19:18.000000 	N/A	Disabled
+6800	680	svchost.exe	0xd28ebc0d5080	7	-	0	False	2022-05-22 11:19:18.000000 	N/A	Disabled
+6524	680	svchost.exe	0xd28ebb159080	7	-	0	False	2022-05-22 11:19:19.000000 	N/A	Disabled
+6856	680	svchost.exe	0xd28eb92c9440	5	-	1	False	2022-05-22 11:19:19.000000 	N/A	Disabled
+7064	680	SecurityHealth	0xd28eb54eb080	7	-	0	False	2022-05-22 11:21:19.000000 	N/A	Disabled
+6672	1168	taskhostw.exe	0xd28ebc3a9080	6	-	1	False	2022-05-22 11:32:18.000000 	N/A	Disabled
+3352	860	WindowsInterna	0xd28ebba2c540	32	-	1	False	2022-05-22 11:38:45.000000 	N/A	Disabled
+208	680	svchost.exe	0xd28eb9588080	5	-	0	False	2022-05-22 14:10:47.000000 	N/A	Disabled
+3164	680	svchost.exe	0xd28ebb8f6080	6	-	0	False	2022-05-22 14:10:47.000000 	N/A	Disabled
+5136	2672	Code.exe	0xd28ebc0ea500	0	-	1	False	2022-05-22 14:37:49.000000 	2022-05-22 14:37:58.000000 	Disabled
+3096	860	dllhost.exe	0xd28ebcc67080	5	-	1	False	2022-05-22 16:32:30.000000 	N/A	Disabled
+4472	680	svchost.exe	0xd28eb958e080	8	-	0	False	2022-05-22 21:04:23.000000 	N/A	Disabled
+5128	680	sppsvc.exe	0xd28ebcc76080	5	-	0	False	2023-01-25 12:43:23.000000 	N/A	Disabled
+4992	860	SppExtComObj.E	0xd28ebcf7b080	3	-	0	False	2023-01-25 12:43:24.000000 	N/A	Disabled
+5944	680	svchost.exe	0xd28eb92e9080	4	-	0	False	2023-01-25 12:48:44.000000 	N/A	Disabled
+1908	680	svchost.exe	0xd28ebcae4080	2	-	0	False	2023-01-25 12:48:44.000000 	N/A	Disabled
+1136	680	svchost.exe	0xd28ebcf41240	18	-	0	False	2023-01-25 12:48:45.000000 	N/A	Disabled
+6912	860	ApplicationFra	0xd28ebd0bd080	19	-	1	False	2023-01-25 12:49:08.000000 	N/A	Disabled
+3220	680	svchost.exe	0xd28ebd3b0080	4	-	0	False	2023-01-25 12:49:09.000000 	N/A	Disabled
+7664	680	svchost.exe	0xd28ebd3b9080	6	-	0	False	2023-01-25 12:49:24.000000 	N/A	Disabled
+3392	4104	ConEmu64.exe	0xd28eb961a080	11	-	1	False	2023-01-25 13:14:40.000000 	N/A	Disabled
+7320	3392	ConEmuC64.exe	0xd28eb980e080	8	-	1	False	2023-01-25 13:14:41.000000 	N/A	Disabled
+7900	7320	conhost.exe	0xd28ebd159080	3	-	1	False	2023-01-25 13:14:41.000000 	N/A	Disabled
+1396	7320	cmd.exe	0xd28ebd38c080	2	-	1	False	2023-01-25 13:14:41.000000 	N/A	Disabled
+7148	680	svchost.exe	0xd28ebe1c7080	6	-	0	False	2023-02-07 15:37:09.000000 	N/A	Disabled
+5356	7944	software_repor	0xd28ebd16b080	0	-	1	False	2023-02-07 15:41:02.000000 	2023-02-13 14:48:23.000000 	Disabled
+5568	7944	software_repor	0xd28ebb81d080	0	-	1	False	2023-02-07 15:41:02.000000 	2023-02-13 14:48:23.000000 	Disabled
+3648	680	svchost.exe	0xd28ebd6c6080	6	-	0	False	2023-02-13 14:47:08.000000 	N/A	Disabled
+6948	2672	chrome.exe	0xd28ebba0a080	31	-	1	False	2023-02-19 17:54:35.000000 	N/A	Disabled
+6016	6948	chrome.exe	0xd28ebbe3d540	8	-	1	False	2023-02-19 17:54:36.000000 	N/A	Disabled
+7024	6948	chrome.exe	0xd28ebe460540	18	-	1	False	2023-02-19 17:54:36.000000 	N/A	Disabled
+4300	6948	chrome.exe	0xd28ebbed5540	19	-	1	False	2023-02-19 17:54:36.000000 	N/A	Disabled
+1512	6948	chrome.exe	0xd28ebdda1080	8	-	1	False	2023-02-19 17:54:36.000000 	N/A	Disabled
+7156	680	svchost.exe	0xd28eb92ec080	9	-	0	False	2023-02-19 17:54:53.000000 	N/A	Disabled
+6992	7240	Code.exe	0xd28ebe9a3540	0	-	1	False	2023-02-19 17:56:55.000000 	2023-02-19 17:57:18.000000 	Disabled
+7120	6948	chrome.exe	0xd28ebd6b9540	17	-	1	False	2023-02-19 17:57:40.000000 	N/A	Disabled
+7952	2672	cmd.exe	0xd28ebd8d4540	1	-	1	False	2023-02-19 17:59:39.000000 	N/A	Disabled
+5816	7952	conhost.exe	0xd28ebe1b8540	4	-	1	False	2023-02-19 17:59:39.000000 	N/A	Disabled
+3300	1396	cmd.exe	0xd28ebaaa92c0	0	-	1	False	2023-02-19 18:04:36.000000 	2023-02-19 18:04:36.000000 	Disabled
+6312	1396	cmd.exe	0xd28ebba0c080	0	-	1	False	2023-02-19 18:04:37.000000 	2023-02-19 18:04:37.000000 	Disabled
+5376	1396	cmd.exe	0xd28ebbee1580	0	-	1	False	2023-02-19 18:04:50.000000 	2023-02-19 18:04:50.000000 	Disabled
+3772	6720	git.exe	0xd28ebe2ec080	0	-	1	False	2023-02-19 18:04:50.000000 	2023-02-19 18:04:50.000000 	Disabled
+7432	1396	cmd.exe	0xd28ebdf1d080	0	-	1	False	2023-02-19 18:04:55.000000 	2023-02-19 18:04:55.000000 	Disabled
+1404	5452	git.exe	0xd28ebae2e300	0	-	1	False	2023-02-19 18:04:55.000000 	2023-02-19 18:04:55.000000 	Disabled
+7276	1396	cmd.exe	0xd28ebdb0e2c0	0	-	1	False	2023-02-19 18:04:56.000000 	2023-02-19 18:04:56.000000 	Disabled
+7956	7632	git.exe	0xd28ebd1632c0	0	-	1	False	2023-02-19 18:04:56.000000 	2023-02-19 18:04:56.000000 	Disabled
+5692	1396	cmd.exe	0xd28ebdb8e080	0	-	1	False	2023-02-19 18:05:08.000000 	2023-02-19 18:05:08.000000 	Disabled
+1864	6900	git.exe	0xd28ebb3d2540	0	-	1	False	2023-02-19 18:05:08.000000 	2023-02-19 18:05:08.000000 	Disabled
+7100	1396	cmd.exe	0xd28ebe1c6080	0	-	1	False	2023-02-19 18:11:26.000000 	2023-02-19 18:11:26.000000 	Disabled
+7748	8156	git.exe	0xd28ebe8460c0	0	-	1	False	2023-02-19 18:11:26.000000 	2023-02-19 18:11:26.000000 	Disabled
+828	2672	notepad++.exe	0xd28ebc3bf540	0	-	1	False	2023-02-19 18:11:58.000000 	2023-02-19 18:12:01.000000 	Disabled
+7304	4520	SearchProtocol	0xd28ebab14080	8	-	0	False	2023-02-19 18:12:10.000000 	N/A	Disabled
+7996	6948	chrome.exe	0xd28ebe9ad540	11	-	1	False	2023-02-19 18:14:22.000000 	N/A	Disabled
+3244	1396	cmd.exe	0xd28ebae17540	0	-	1	False	2023-02-19 18:17:40.000000 	2023-02-19 18:17:40.000000 	Disabled
+3964	1944	git.exe	0xd28ebba0b540	0	-	1	False	2023-02-19 18:17:40.000000 	2023-02-19 18:17:40.000000 	Disabled
+4168	1396	cmd.exe	0xd28ebbfbe540	0	-	1	False	2023-02-19 18:17:51.000000 	2023-02-19 18:17:51.000000 	Disabled
+6160	6620	git.exe	0xd28eba3af080	0	-	1	False	2023-02-19 18:17:51.000000 	2023-02-19 18:17:51.000000 	Disabled
+6380	1396	cmd.exe	0xd28ebbbdf540	0	-	1	False	2023-02-19 18:17:53.000000 	2023-02-19 18:17:53.000000 	Disabled
+7588	6024	git.exe	0xd28ebb2222c0	0	-	1	False	2023-02-19 18:17:53.000000 	2023-02-19 18:17:53.000000 	Disabled
+3668	680	TrustedInstall	0xd28ebbb1d500	6	-	0	False	2023-02-19 18:18:41.000000 	N/A	Disabled
+6592	680	svchost.exe	0xd28ebc8ee500	8	-	0	False	2023-02-19 18:18:41.000000 	N/A	Disabled
+7776	860	TiWorker.exe	0xd28ebc3a1500	4	-	0	False	2023-02-19 18:18:41.000000 	N/A	Disabled
+6980	680	svchost.exe	0xd28ebe418080	8	-	0	False	2023-02-19 18:18:48.000000 	N/A	Disabled
+6568	860	backgroundTask	0xd28ebbb68080	8	-	1	False	2023-02-19 18:18:49.000000 	N/A	Disabled
+3780	860	MicrosoftEdge.	0xd28ebcf52080	43	-	1	False	2023-02-19 18:19:13.000000 	N/A	Disabled
+1392	860	browser_broker	0xd28ebded3080	13	-	1	False	2023-02-19 18:19:13.000000 	N/A	Disabled
+4972	680	svchost.exe	0xd28ebd585080	5	-	0	False	2023-02-19 18:19:14.000000 	N/A	Disabled
+2844	4972	Windows.WARP.J	0xd28ebcf87080	4	-	0	False	2023-02-19 18:19:14.000000 	N/A	Disabled
+6780	860	RuntimeBroker.	0xd28ebd0b9080	14	-	1	False	2023-02-19 18:19:14.000000 	N/A	Disabled
+1040	860	MicrosoftEdgeC	0xd28ebe447080	43	-	1	False	2023-02-19 18:19:14.000000 	N/A	Disabled
+1564	680	svchost.exe	0xd28ebcf96080	7	-	0	False	2023-02-19 18:19:14.000000 	N/A	Disabled
+3472	6780	MicrosoftEdgeS	0xd28ebcf36080	12	-	1	False	2023-02-19 18:19:14.000000 	N/A	Disabled
+6844	680	svchost.exe	0xd28ebba04240	7	-	0	False	2023-02-19 18:19:14.000000 	N/A	Disabled
+204	5776	9840432e051a6f	0xd28ebe5eb080	11	-	1	True	2023-02-19 18:19:14.000000 	N/A	Disabled
+5780	4972	Windows.WARP.J	0xd28eb9416080	4	-	0	False	2023-02-19 18:19:14.000000 	N/A	Disabled
+7496	5776	LivelyScreenRe	0xd28eb9417080	15	-	1	False	2023-02-19 18:19:14.000000 	N/A	Disabled
+528	4520	SearchFilterHo	0xd28ebe416080	7	-	0	False	2023-02-19 18:19:14.000000 	N/A	Disabled
+808	860	WmiPrvSE.exe	0xd28ebe84b080	11	-	0	False	2023-02-19 18:19:14.000000 	N/A	Disabled
+8360	6128	svchost.exe	0xd28ebe1ea080	7	-	1	False	2023-02-19 18:19:14.000000 	N/A	Disabled
+8948	5412	Setup.exe	0xd28ebe5e1080	4	-	1	True	2023-02-19 18:19:15.000000 	N/A	Disabled
+8996	8948	conhost.exe	0xd28ebe2f2080	7	-	1	False	2023-02-19 18:19:15.000000 	N/A	Disabled
+8472	7496	tmp8DCF_tmp.ex	0xd28ebdb9f080	4	-	1	True	2023-02-19 18:30:06.000000 	N/A	Disabled
+8504	8472	conhost.exe	0xd28ebd146080	6	-	1	False	2023-02-19 18:30:06.000000 	N/A	Disabled
+9148	860	WmiPrvSE.exe	0xd28ebe5f4080	10	-	0	False	2023-02-19 18:30:07.000000 	N/A	Disabled
+9096	7952	winpmem_mini_x	0xd28ebd7ed080	4	-	1	False	2023-02-19 18:30:10.000000 	N/A	Disabled
+8804	9184	sihost32.exe	0xd28ebe9ab080	9	-	1	False	2023-02-19 18:30:18.000000 	N/A	Disabled
+9128	860	MicrosoftEdgeC	0xd28ebe9a8080	20	-	1	False	2023-02-19 18:30:19.000000 	N/A	Disabled
+8600	860	MicrosoftEdgeC	0xd28ebe5fa080	20	-	1	False	2023-02-19 18:30:20.000000 	N/A	Disabled

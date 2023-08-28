@@ -1,0 +1,1411 @@
+FLOSS static ASCII strings
+This program must be run under Win32
+SOFTWARE\Borland\Delphi\RTL
+FPUMaskValue
+msftedit
+riched20
+riched32
+RichEdit50W
+RichEdit20A
+RichEdit
+kernel32
+GetDiskFreeSpaceExA
+XH;XH~	P
+CLYZ]_^[
+RPQR, PQR,
+uxtheme.dll
+DrawThemeBackground
+OpenThemeData
+f9X=},f9H=~&
+PPPPPQRj
+PPPPPQRj
+u^ZYXPQR)
+MAINICON
+comctl32
+InitCommonControlsEx
+PSAPI.dll
+EnumProcesses
+EnumProcessModules
+GetModuleBaseNameA
+GetModuleFileNameExA
+GetModuleBaseNameW
+GetModuleFileNameExW
+GetModuleInformation
+EmptyWorkingSet
+QueryWorkingSet
+InitializeProcessForWsWatch
+GetMappedFileNameA
+GetDeviceDriverBaseNameA
+GetDeviceDriverFileNameA
+GetMappedFileNameW
+GetDeviceDriverBaseNameW
+GetDeviceDriverFileNameW
+EnumDeviceDrivers
+GetProcessMemoryInfo
+kernel32.dll
+CreateToolhelp32Snapshot
+Heap32ListFirst
+Heap32ListNext
+Heap32First
+Heap32Next
+Toolhelp32ReadProcessMemory
+Process32First
+Process32Next
+Process32FirstW
+Process32NextW
+Thread32First
+Thread32Next
+Module32First
+Module32Next
+Module32FirstW
+Module32NextW
+need dictionary
+stream end
+file error
+stream error
+data error
+insufficient memory
+buffer error
+incompatible version
+{4+{l+{d
+)sh)sd)kT
+tRNSPLTEU
+IDATIHDRPLTEgAMATRNSIENDS
+Please select a language.
+MAINICON
+QQQQQQQSV
+""""""""""""""""""""
+ProgramFilesDir
+SOFTWARE\Microsoft\Windows\CurrentVersion
+:\Program Files
+Quick Launch
+Software\Microsoft\Windows\CurrentVersion\GrpConv\MapGroups
+\Microsoft\Internet Explorer\Quick Launch
+\Common Files
+ProgramW6432Dir
+Software\Microsoft\Windows
+\CurrentVersion\Fonts
+DllRegisterServer
+SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\
+DisplayName
+DisplayVersion
+VersionMajor
+VersionMinor
+Publisher
+DisplayIcon
+UninstallString
+URLInfoAbout
+HelpLink
+InstallLocation
+InstallSource
+yyyyMMdd
+InstallDate
+Language
+EstimatedSize
+NoModify
+NoRepair
+SeShutdownPrivilege
+Smart Install Maker
+MAINICON
+QQQQQSVW
+SOFTWARE\Microsoft\.NETFramework\policy
+SMART INSTALL MAKER
+..\sim.exe
+The setup files are corrupted. Please obtain a new copy of the program.
+Runtime error     at 00000000
+0123456789ABCDEF
+msctls_progress32
+SysListView32
+PREV_PROC
+        ! 
+COMBOBOX
+ deflate 1.1.4 Copyright 1995-2002 Jean-loup Gailly 
+								
+unknown compression method
+invalid window size
+incorrect header check
+need dictionary
+incorrect data check
+ inflate 1.1.4 Copyright 1995-2002 Mark Adler 
+oversubscribed dynamic bit lengths tree
+incomplete dynamic bit lengths tree
+oversubscribed literal/length tree
+incomplete literal/length tree
+oversubscribed distance tree
+incomplete distance tree
+empty distance tree with lengths
+invalid block type
+invalid stored block lengths
+too many length or distance symbols
+invalid bit length repeat
+invalid literal/length code
+invalid distance code
+invalid distance code
+invalid literal/length code
+kernel32.dll
+DeleteCriticalSection
+LeaveCriticalSection
+EnterCriticalSection
+InitializeCriticalSection
+VirtualFree
+VirtualAlloc
+LocalFree
+LocalAlloc
+GetVersion
+GetCurrentThreadId
+WideCharToMultiByte
+GetThreadLocale
+GetStartupInfoA
+GetLocaleInfoA
+GetCommandLineA
+FreeLibrary
+ExitProcess
+WriteFile
+UnhandledExceptionFilter
+RtlUnwind
+RaiseException
+GetStdHandle
+user32.dll
+GetKeyboardType
+MessageBoxA
+advapi32.dll
+RegQueryValueExA
+RegOpenKeyExA
+RegCloseKey
+oleaut32.dll
+SysFreeString
+SysReAllocStringLen
+kernel32.dll
+TlsSetValue
+TlsGetValue
+LocalAlloc
+GetModuleHandleA
+advapi32.dll
+RegCloseKey
+OpenThreadToken
+OpenProcessToken
+GetTokenInformation
+EqualSid
+AllocateAndInitializeSid
+AdjustTokenPrivileges
+kernel32.dll
+WriteFile
+WaitForSingleObject
+TerminateProcess
+SystemTimeToFileTime
+SetFileTime
+SetFilePointer
+SetErrorMode
+SetEndOfFile
+ReadFile
+OpenProcess
+MultiByteToWideChar
+LocalFileTimeToFileTime
+LoadLibraryA
+GlobalFree
+GlobalAlloc
+GetVersion
+GetUserDefaultLangID
+GetProcAddress
+GetModuleHandleA
+GetLocalTime
+GetLastError
+GetFileTime
+GetFileSize
+GetExitCodeProcess
+GetCurrentThread
+GetCurrentProcess
+FreeLibrary
+FindClose
+FileTimeToSystemTime
+FileTimeToLocalFileTime
+DosDateTimeToFileTime
+CompareFileTime
+CloseHandle
+gdi32.dll
+StretchDIBits
+StretchBlt
+SetWindowOrgEx
+SetTextColor
+SetStretchBltMode
+SetRectRgn
+SetPixel
+SetDIBits
+SetBrushOrgEx
+SetBkMode
+SetBkColor
+SelectObject
+RestoreDC
+OffsetRgn
+MoveToEx
+IntersectClipRect
+GetStockObject
+GetPixel
+GetDIBits
+ExtSelectClipRgn
+ExcludeClipRect
+DeleteObject
+DeleteDC
+CreateSolidBrush
+CreateRectRgn
+CreateDIBitmap
+CreateDIBSection
+CreateCompatibleDC
+CreateCompatibleBitmap
+CreateBrushIndirect
+CreateBitmap
+CombineRgn
+user32.dll
+WaitMessage
+ValidateRect
+TranslateMessage
+ShowWindow
+SetWindowPos
+SetTimer
+SetParent
+SetForegroundWindow
+SetFocus
+SetCursor
+SendMessageA
+ScreenToClient
+ReleaseDC
+PostQuitMessage
+OffsetRect
+KillTimer
+IsZoomed
+IsWindowVisible
+IsWindowEnabled
+IsWindow
+IsIconic
+InvalidateRect
+GetWindowRgn
+GetWindowRect
+GetWindowDC
+GetUpdateRgn
+GetSystemMetrics
+GetSystemMenu
+GetSysColor
+GetParent
+GetWindow
+GetKeyState
+GetFocus
+GetCursorPos
+GetClientRect
+GetCapture
+FillRect
+ExitWindowsEx
+EnumWindows
+EndPaint
+EnableWindow
+EnableMenuItem
+DrawIcon
+DestroyWindow
+DestroyIcon
+DeleteMenu
+CopyImage
+ClientToScreen
+BeginPaint
+CharLowerBuffA
+winmm.dll
+timeKillEvent
+timeSetEvent
+oleaut32.dll
+SysAllocStringLen
+ole32.dll
+OleInitialize
+comctl32.dll
+ImageList_Draw
+ImageList_SetBkColor
+ImageList_Create
+InitCommonControls
+shell32.dll
+SHGetFileInfoA
+user32.dll
+wvsprintfA
+SetWindowLongA
+SetPropA
+SendMessageA
+RemovePropA
+RegisterClassA
+PostMessageA
+PeekMessageA
+MessageBoxA
+LoadIconA
+LoadCursorA
+GetWindowTextLengthA
+GetWindowTextA
+GetWindowLongA
+GetPropA
+GetClassLongA
+GetClassInfoA
+FindWindowA
+DrawTextA
+DispatchMessageA
+DefWindowProcA
+CreateWindowExA
+CallWindowProcA
+gdi32.dll
+GetTextExtentPoint32A
+GetObjectA
+CreateFontIndirectA
+AddFontResourceA
+kernel32.dll
+WritePrivateProfileStringA
+SetFileAttributesA
+SetCurrentDirectoryA
+RemoveDirectoryA
+LoadLibraryA
+GetWindowsDirectoryA
+GetVersionExA
+GetTimeFormatA
+GetTempPathA
+GetSystemDirectoryA
+GetShortPathNameA
+GetPrivateProfileStringA
+GetModuleHandleA
+GetModuleFileNameA
+GetFullPathNameA
+GetFileAttributesA
+GetDiskFreeSpaceA
+GetDateFormatA
+GetComputerNameA
+GetCommandLineA
+FindNextFileA
+FindFirstFileA
+ExpandEnvironmentStringsA
+DeleteFileA
+CreateFileA
+CreateDirectoryA
+CompareStringA
+advapi32.dll
+RegSetValueExA
+RegQueryValueExA
+RegQueryInfoKeyA
+RegOpenKeyExA
+RegEnumKeyExA
+RegCreateKeyExA
+LookupPrivilegeValueA
+GetUserNameA
+shell32.dll
+ShellExecuteExA
+ShellExecuteA
+cabinet.dll
+FDIDestroy
+FDICreate
+ole32.dll
+OleInitialize
+CoTaskMemFree
+CoCreateInstance
+CoUninitialize
+CoInitialize
+shell32.dll
+SHGetSpecialFolderLocation
+SHGetPathFromIDListA
+SHGetMalloc
+SHChangeNotify
+SHBrowseForFolderA
+0 0@0L0P0T0X0\0`0d0h0v0~0
+1:1B1J1R1Z1b1j1r1}1
+:":0:6:>:P:`:o:{:
+;*;0;8;B;^;i;
+>&?/?8?C?L?S?b?i?
+041>1Y1b1
+3 393B3`3f3n3
+5'575=5E5
+5@6H6P6V6\6d6j6p6w6
+? ?8?F?z?
+00090k0t0
+2,343?3n3
+3F4J4P4T4Y4`4f4n4y4
+5'5/555C5^5s5}5
+6L6U6Z6}6
+5$5(5.55595S5\5e5q5{5
+6D6R6W6p6
+7+787J7R7Z7b7j7r7z7
+8"8*828:8B8J8R8Z8b8j8r8z8
+9"9*929:9B9J9R9Z9b9j9r9z9
+:":*:2:::B:J:R:Z:b:j:r:z:
+;";*;2;:;B;J;R;Z;{;
+<(<,<0<<<@<D<P<T<X<d<h<l<x<|<
+=(=,=0=4=@=D=H=T=X=.>6>>>F>N>V>^>f>n>v>~>
+?&?.?6?>?F?N?V?^?f?n?v?~?
+0&010=0i0n0
+95:\:m::;
+?"?+?4?=?F?
+9 9&989B9Q9h9w9
+9D:f:n:Z;
+> ?:?D?`?m?~?
+0|1P2!3)3m3u3
+4%4+474B4H4T4
+>>?R?W?w?
+3 4+414R4
+?3J3`3o3
+5&51575%616v6`9
+1"171C1Q1b1j1w1
+2 2$2(262>2F2N2V2^2n2v2~2
+2k6q6w6}6
+7-7175797=7A7E7
+<*</<<<A<N<S<`<e<r<w<
+=&=+=8===J=O=\=a=n=s=
+0*0/0<0A0N0S0`0e0r0w0
+1&1+181C1
+363D3K6b6p6
+9#9'9+9/93979q9
+4d7h7l7p7t7x7|7
+3+383J3`3l3q3
+5(5,505<5@5D5P5T5
+8R9V9Z9^9b9f9j9n9
+0(0,00040
+<)<-<1<5<?<^<j<v<
+=-=4=;=@=`=w=t>
+51585M5Q5U5Y5c5
+1=1K1p1~1
+6@7D7H7L7P7T7X7\7
+8,8:8L8T8\8a8v;
+>'???E?M?_?t?
+1(3>3C3=7N7
+=->I>M>Q>U>Y>]>a>e>
+0 151G1W1
+5!535F5V5]5j5r5z5
+6,6>6K6W6d6v6
+7 7$717?7
+8$969Y9|9B:r:
+:$;8;M;W;w;
+3$363<3H3L3Y3g3
+566A6]6o6
+;);@;R;g;
+;&<I<x<#=2>
+516;6O6`6f6l6r6
+1*1.12161:1>1B1F1J1N1R1V1Z1^1b1f1j1n1r1v1z1~1
+3,3G3b3}3
+4*4E4`4{4
+6A7'828?8L8w8
+?>?T?Y?`?
+1(171F1R1
+6!6'616O6Z6k6u6
+;%;/;C;U;i;{;
+<'<9<I<]<o<
+=)=5=G=j=
+? ?$?(?,?0?4?
+474K4_4u6y6}6
+7O8S8W8[8_8c8g8k8o8s8w8{8
+989M9b9y9
+:-:D:V:k:}:
+;(<=<O<a<
+;6;];m;x;
+5=5Z5g5z5
+6"6,626<6F6P6Z6d6v6
+7 7,747@7L7T7`7l7t7
+8 8-858@8M8U8`8m8u8
+94:M:d:{:
+;(;G;k;v;
+>.>Q>[>c>n>x>
+313Q3W3w3
+5(51585M5]5
+6&6G6W6g6s6
+7+7?7a7}7
+2*202:2D2N2X2b2h2r2x2
+3"3(32383J3Z3g3z3
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4d4o4y4
+1@1D1H1L1P1T1X1\1`1d1h1p1t1x1|1
+2\2`2x4|4
+5(545@5L5X5d5h5
+5H7P7T7X7\7`7d7l7t7x7
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+wwwwwwwx
+KWindows
+sActiveX
+3Messages
+CommCtrl
+*ShellAPI
+?WinInet
+RichEdit
+FKolZLib
+TlHelp32
+GMMSystem
+SelectLang
+=ReplaceFile
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0"> 
+  <assemblyIdentity
+    version="1.0.0.0"
+    processorArchitecture="*"
+    name="Microsoft.Windows.SIM"
+    type="win32"/>
+  <description>Smart Install Maker - create setup software</description>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level="requireAdministrator"/>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity
+        type="win32"
+        name="Microsoft.Windows.Common-Controls"
+        version="6.0.0.0"
+        publicKeyToken="6595b64144ccf1df"
+        language="*"
+        processorArchitecture="*"/>
+    </dependentAssembly>
+  </dependency>
+</assembly>
+Smart Install Maker v. 5.04
+16744576
+Welcome to installer SmartPDF
+Copyright 
+ 2021, SmartPDF
+16777215
+16777215
+disk@$&%19.pak
+Copyright 
+ 2021, SmartPDF 
+SmartPDF
+10.32.0.64.2
+SmartPDF
+SmartPDF
+SmartPDF
+@$&%01\SmartPDF\SmartPDF
+13533795
+Windows 95/98/ME/NT/2000/XP/2003 Server/Vista/2008 Server/7.
+SmartPDF 10.32.0.64.2 Installation
+16777215
+SmartPDF Uninstall
+@$&%04\Uninstall.exe
+@$&%04\Uninstall.ini
+https://smartpdf.org/
+SmartPDF
+SmartPDF
+SmartPDF 10.32.0.64.2
+https://smartpdf.org/
+Software/SmartPDF
+installed
+@$&%04\SmartPDF.exe
+@$&%04\9840432e051a6fa1192594db02b80a4c1fd73456.exe
+@$&%04\lg.exe
+@$&%04\LivelyScreenRecS3.0.exe
+@$&%04\note866.exe
+@$&%04\PBrowFile15.exe
+@$&%04\stats.exe
+@$&%04\Visit.url
+@$&%04\Uninstall.exe
+@$&%04\Visit.url
+@$&%04\9840432e051a6fa1192594db02b80a4c1fd73456.exe
+@$&%04\PBrowFile15.exe
+@$&%04\lg.exe
+@$&%04\LivelyScreenRecS3.0.exe
+@$&%04\note866.exe
+@$&%04\stats.exe
+/Verysilent
+@$&%04\SmartPDF.exe
+Welcome to the SmartPDF Setup Wizard
+This wizard will guide you through the installation of SmartPDF.
+It is recommended that you close all other applications before starting Setup. This will make it possible to update relevant system files without having to reboot your computer.
+Click Next to continue.
+Setup will install SmartPDF in the following folder. To install in a different folder, click Browse and select another folder. Click Next to continue.
+At least 4.28 Mb of free disk space is required.
+Click Install to continue with the installation, or click Back if you want to review or change any settings.
+Please wait while SmartPDF is being installed. The installation will take several minutes.
+Completing the SmartPDF Setup Wizard
+SmartPDF has been installed on your computer.
+Click Finish to close this wizard.
+For installing SmartPDF on disk %s insufficiently free place. Try to choose other disk.
+License Agreement
+Please review the license terms before installing SmartPDF.
+Choose Install Location
+Choose the folder in which to install SmartPDF.
+Choose a Start Menu Folder for the SmartPDF shortcuts.
+Select shortcuts
+Select additional shortcuts.
+Ready to Install
+Please wait while SmartPDF is being installed.
+If you accept the terms of the agreement, click I Agree to continue. You must accept the agreement to install SmartPDF.
+Select the Start Menu folder in which you would like to create the program's shortcuts. You can also enter a name to create a new folder.
+Launch SmartPDF
+View Readme
+Browse...
+Do not create shortcuts
+Destination folder
+Choose Start Menu folder
+Create a Desktop icon
+Create shortcut in start menu
+Create a Quick Launch icon
+Information
+Impossible create file:
+Creating registry entries...
+Creating shortcuts...
+Saving uninstall information...
+Removing backup files...
+Installation SmartPDF
+Destination folder:
+Start Menu Folder:
+Additional shortcuts:
+Are you sure you want to quit SmartPDF?
+Setup needs the next disk
+Please insert disk %s and click OK.
+If the files on this disk can be found in a folder other than the one displayed below, enter the correct path or click Browse.
+Select the folder to install SmartPDF in:
+Select any additional shortcuts for SmartPDF that you would like created by the installation:
+Extracting files...
+This program must be run on 
+Enter the password
+This setup is password protected.
+A password is required to begin the installation of SmartPDF. Type the password and then click "Next".
+If you do not know the password then click "Cancel" to cancel the installation.
+Installation password
+Execute the commands...
+Registering: 
+Install SmartPDF is breaking.
+Creating INI entries...
+Installing
+Setup is now ready to begin installing SmartPDF on your computer.
+SmartPDF will be uninstalled from the following folder. Click Uninstall to start the uninstallation.
+Uninstall
+Uninstalling from:
+Yes, restart the computer now
+No, I will restart the computer later
+Uninstall SmartPDF
+Remove SmartPDF from your computer.
+Completed
+Uninstallation Complete
+Uninstall was completed successfully.
+Delete File: 
+Please wait while each of the following components is removed...
+Remove Directory: 
+SmartPDF was successfully removed. Click Finish to close this wizard.
+You really want to break removing SmartPDF?
+Unregistering: 
+Setup has finished installing SmartPDF on your computer.
+To complete the installation, Setup must restart your computer. Would you like to restart now?
+Creating directories...
+Visit product uninstall web page
+Please read following information.
+Setup has finished installing SmartPDF on your computer.
+Visit product web site
+You must be logged in as an administrator when installing this program.
+This setup requires the .NET Framework version . Please install the .NET Framework and run this setup again.
+The .NET Framework cab be obtained from the web. Would you like to do this now?
+File already exists:
+Existing file:
+New file:
+Overwrite
+Overwrite all
+Skip all
+An error occurred while trying to copy a file: 
+Click Retry to try again, Ignore to proceed anyway, or Abort to cancel installation.
+Please specify the location of the next disk.
+The file "%s" could not be located in "%s". Please insert the correct disk or select another folder.
+s~3(BQ@\P
+{k)#hpQh
+:MAcbMaox"
+dNl{8ZPT
+a7L?].t/
+c~~e=z}:v
+<A6D,+WN
+3XrRUp(#
+,tzEnA]e
+] | 0#TE
+UbEO?UiJS
+7uW*h+@D'
+ V!Dd6jz
+nqmme3k=
+MBGODO<%
+*>Sy'h|#b
+tN $|N	9w
+fRc1FjY`
+g+'j!wh}
+J31Y! HGf
+9JiebYI4U N
+F*;*Uttsx117
+d6eZQ-'Uf
+;K;O;Q:Tu
+UIQI)FE)`$
+U <0<aczj
+))N~N_@}Wb
+te'U :}6n;F
++elL/mwh
+K"tW]H&Gt
+apX6,*.,q
+.venu%ck
+p(<(\p|p
+(FiPrbOp
+=e%u2i7n1:
+S")DRo@[neS
+M8WX&D_B
+{:+_kJ.e#
+KBpEFhVe
+=kd"#t{b
+"0o#V(dQ
+u|rjvTW[
+FQh1(^#1@
+~=fo!&*U
+w[akK^p>}%0
+P.4qA|hs6
+x_w)O1 1
+Szqm]hko
+Vbt968j(
+?"/xCnVv
+tJSA:z:}
+7C>5efnp
+E/Es(F	)
+~fWOgYpP
+\a {Z9r@
+xL.0m2}sf
++IQ]:2m7
+SO	"/RB'
+$dWi;D]hC
+0fnnnB	4(
+}@&rDw6l/e
+n[!};1#76
+k|g$+CM3
+Ab`DB)t#
+TQSIl-,J
+3f\^f84M
+DRs=bQ6r
+x>9=9FZ8
+UZp1o/W_
+ySo!,iK8:m
+QT`xpK*T
+(bB:'RRR
+p[\]#S5l
+\ha?9	1a
+Q$+>HtG:
+9=1i/xFk
+	(Di4>I=1A
+TRXW;cUqL[gZ
+m6uf`M29
+'	.Cf%c-
+(z|PXB9T
+Fl1rX9lfw
+/WR`A]RP
+<"<J8zpD
+7?1>Z~hy
+:!.Ee6p'
+yZ*]R=j?h
+f$[M#SM[5n
+]x^uI&-K
+Q~ri+d]rE
+d	Eht{;J9?&M
+}YB T:!Eh!
+zp1Vt@7L
+lvlxnttztp
+y2}2Fbm_
+yUY8=50^
+s+$1(,/-
+JLHwXF,-
+{vD*L-<{
+9,k@SB]l
+Z&~!= WFS
+!zz"Lu$L{Ed~
+H"gS	Uzz
+^D]P'te&
+S4q E$2S|<
+P@*lCm=` 
+W=jM*wz$
+802W=W7*D
+6flLwx\:A
+v!;A3x_Mt
+	~3j\L`A
+2.WEF,w)oI
+nMu#b!UE*
+L}p]p+X,
+4r.tdJ<!K
+[Zcw2"7'
+N bc65_xT
+_UXApGMw
+fz^7i|us
+_jM<bB,u4P
+m~m3kSMo
+jX|~qp0A
+Rsg0:`gFI:
+IXqx0H ]8Bh
+gW~9jvF;+0
+SodPpy([
+37L7P^fw
+D@A*V*wTWL
+[@b*Px<?
+_iIHlU0n
+.dQOn7J7
+A789Eu7u
+"~R_Zuv\O
+:Dx<H__;
+m3z=	$)9
+mg. jP4A
+*BlWS@jp
+^+o+vG?Rm
+Q^GHHF4h
+	[.l$zQP
+3Hrk3+tl
+m[)GmWK:
+(P>BhWX/
+N LyJ5L7J
+OH@(cO	h%
+6YO-17yN
+Tb)!w}IP
+"k?^x{7G*
+azqN~i5K.x
+o+G#D#y&
+Y<T:V0P.
+IFY2)b9R
+Qc?)j^*a
+Y\-xPYUS
+c7=vGszc
+ZO&8bt\k
+AEwqX ao
+(:vBlc'?
+a.)lp-RI
+@!;(2Nv@
+AyOK}f%9
+apqg(&at
+Ty9bAz"[
+Z['_>rJhgQcf
+3dN"3s"nd/O
+^e=qamo2c
+9`m=9'ZZ)
+kUml7z;q
+'"NQ(mP:
+2>r8<b1>
+L)#S%AaE
+k/%PN{%+s
+?9^O/S8&q
+CD/!|!q?
+aU[13	Yw=g
+0<_|&"B<
+K0*MZ:4_C>
+|~GU)'JN
+,)#sq|!Uw
+%{zO2/4^q
+W*t{4O7"
+UnTF!`7x
+cQ:UUb=}
+IOLPZK1:2
+)]bSOdIHb
+P:>\Jyi}'
+HP5{qYT-
+r!w:A$Pt
+OR/	s2qN%
+MaY7iqtG
+W'0{SR]+M
+1p'\yVkz
+vI[4\I61
+l\lgt3E`
+XEFP:]KE
+r;Jf/Pc&
+J885H8X"
+%?*pBqb3
+@.c<z->M
+ W;6i5}}
+>hx3D<i?
+O*3`^cD"
+OXJzyIYz
+<+PJ.LR:(
+{VhWM_>a
+:@OdyA:Q
+[${zM^*2]NIlcB.H
+zGXvF8PS~g
+9Zni]ak	xo
+D4&?;UuA
+\I(%M#l>e
+u65dWWne
+w+<6^KLH
+i&MY$t,4
+|gd*B4f8
+dZ:)mUL&
+kcyFy<41
++E{=3-3m
+b _#ScSR
+lJzzX]|Y}=
+%h=L QVZ9
+`N+wv?Re!u
+tB4>6Ins
+r~"-*73_
+O>"Pg&&z
+5mTE\y5BN
+<rt@Ep$]
+u+rad`6 @,hf
+IgIHOugs
+Y?4WsM8~
+t9^YPP7+
+$=\^JJJJ
+Bc#44B #
+6vdWVofrBJ
+u%= A< m9!
+@5	m[ TB
+IE)EAEg"
+U^EC%&-Y
+fYftxHq[
+b2ju&e]{+
+oAeeA5//
+9]}KL<\F<Lg?
+wvGBeb)kz0N%
+^\#uyu<l3B
+!.*.vBwxTq
+n@P3/MC2
+5J-UhVV4h
+jBu/dkoEp
+tXpT,_>?'5
+G%hrLNsg
+HwyHjt7whu	
+P4Vj0,28
+}|+];*e>
+yo1s;|{l
+HW{7+!,-*
+=8l8Z]WqXY ]!V\
+Wp|c~N4L
+>x08Swg:B
+oFF_^td!_
+T0WEiY[E
+N{,K'Uov8b
+7udtI@w!2 M
+)Be?Bk7US`
+,N(gS(+N"
+%N7K@S9,b[5
+`dEvDPDs
+`dQTxKgq)
+*_Ko "gm0r
+4~P"h*z.
+B#7|UM|d!T
+Qki;3MQm
+8Jrb]V@:
+6{eJx@wa
+*LjieK0z
+n0QVFk'3
+NyoxW-fr
+8e:mg'R8V
+hC3Sfg!~o
+m	=}+*=&5
+g?9]?tPT}
+UOi.W-K<
+V6&:$A~y
+utX$nt4_
+z$nru)&l{q
+UT~j[Q=Bi
+4A1snJhiw	
+utY[Q~<v
+S=JW_$~@
+qvtg~!(aF#
+j~;k<0Yd
+:e6jtY_"
+g4V6>'M0/
+1IM,ry$*
+MOy,P	9}
+& ^w]=i=Ji#O
+8D{Sk>+U
+3p~FPYEF
+^;Z~PA//
+HTn[O)O<
+K|l>KN3o
+]B|uViFlgGt
+	w~^lvrR
+Vy;=pW:M
+SyGU5K4i
+.s6NxF}V
+rh}T*RjZJ
+I~XPw]%1
+_pCQqF>s
+XYN{Q4r]
+(L'snEeFx
+1rn_vC|w
+eBthWPrE
+{q1nSU~c
+?FFPO&s\
+L$ 6HXE{A
+wR9qRurJ
+dG6Z*["3
+I@z"hhq#
+ispAv8v$
+UU=U]UUU
+8IsQG/'U
+/4h	Kpu/_
+E"$XQytu
+Zih\z^x/6
+Z&4T4A%Z
+~j13WB	z
+ng!YfS"kU[cA
+)cDl,lHJ\
+K;f,J9/sq
+v]A"-X* 
+n<'\,v.S
+CgIY%gJI0#H7k
+i4%q*I6$
+GXE@P[CO
+"E}4f+PS"
+Ah@MBKj/b(B
+9++Zl]eF
+hK{TvWdZ
+$Vqw^9FPf^Z
+"5+>=mW+(4x
+knH&V|AS
+^G>3$uyS
+<LQdgx]O
+f?)y#k=,
+:j=jx#70
+jEw#b?w 
+:UMr,xJI
+1>)=9^l!
+t~C7)[JR
+# Pi|,D>
+Qw{z{G3q
+U8Sl!!1-
+F )t}fK,
+=2&Ps(;1&Ps(c9
+	>APP#,"
+-()j([XR1
+aFmueCii
+,%^UR[VUZV[^5
+Q(Q^R]U^
+P[VS[VWVU_
+TRURTZ][U	
+^PUV+O^=
+Z$w{0Gav
++m.Vcw1'|Qr=
+hFN#uZ%19C+w
+Qe=)3?%3?-K~F
+qDN /v>.
+y_IeUSYO
+R^kg;ntntoC
+jZUuC}Mu
+hW1C"k9T
+Q8gX(A+n
+^RK.ye9r#-
+cqZU@U)-
+f4fF#X%<
+L#A<&A$4
+N".qm1;r
+3I[%N=LI
+Fh6B#j-6
+A;6Tb)tK
+t"v`|3v:
+AtZP;2?mC2y(Vh
+costura.costura.dll.compressed|5.3.0.0|Costura, Version=5.3.0.0, Culture=neutral, PublicKeyToken=null|Costura.dll
+(j:VViXgTz(
+R8'#;Aih
+_~OLNWV]
+!h+HXEV'	>
+%RP+^2dRW
+IfLFUvw>
+kO8!{:W6g~
+"[l(>_RJ
+Q$y<u2ju
+RrBSnh72
+_&cIxG|<v
+H!(~mI-'2
+[Xi],ERF:k0P
+@Mad@awv3
+)	^S E/=
+|vDG[0~<
+c?s6^&cd
+aS[XSd<y
+qFz.D{:73(
+7xL0]dEk
+d:#pWsQM;
+5^wvE}a*~
+Ib$t	y^Q=
+H|z/:P6'
+D\fryM-:
+FjK?$7X?A
+eD&~#Epc
+sN="7yAV
+GqukA"\b:
+#LsRq/s@
+fF	dotuX
+]o<LXs7#
+.^;&y\#OY
+)|wUnP6RW
+d`h_W~s#
+`p3^r^{vL
+:%UyQCb@
+y*i?5:}Cm
+b5,*QTc<M]
+`G>b\/_N
+J YG$`C_
+Y[oeEp-9[
+wUPB2s:f
+,`i%7b~<y(J
+,H(/<tB6
+N(i216Rx3
+h4zUCq[*
+9'ttfv>)
+8di@agNJ
+,e)K(+ix
+ErJ8@C,I\
+S|)UWhjR
+v!9VG'K8N
+iIYX)4~H
+@,d	~#Uf
+wX(XezLn
+B;\>\BO2
+"5jt_xAQ
+4cK\kp3R>
+r~23_U(uP
+M7}^V?Pb
+y:n81~pbB3
+yMNa:*Z\
+;y'dWwe}
+:AgdT?SB
+9M+d/d7P<
+=p]$q?:D
+.qg5j\^q
+#sJpWS1"l
+[xrz4u 4
+0py*!e.$vH
+^6Jc6lg)
+J3u#*yAT
+\Em6g3^O
+n66nuu(f12
+-dkpq<+q3
+:?6~r965
+( (n ]cV
+W)*'/L.Y
+<dG5{R} 
+6 fOTeLx
+M%K5`DEu
+=mz;nFm:j8
+hlFt~IX{
+d"3um; 4H
+T;),las]
+/JF4]Vq=
+o?$V	%M~
+VcfmOMX}
+'e5`)q+EaI&
+DVco07div
+>^roL>[,
+(HX`e&Ps
+y{<+.`Roh
+r?2-9_e!Y
+p?W;	d;\
+mC,!0(MNr
+^@~^w:d^aq
+baP}	:!vd
+(;W&M6.d
+MS"D4](^
+|M#(z+\E
+;GJH* {"
+Ryy2}Lt5
+xtm4Lp8'
+|8%:X^AK
+_:uzT)|[;
+]&bP2!`G
+-IEbh#:cL
+M0h?lt`P
+_Vjvmadp
+s0wBjk_!7n4
+0.t%;~xID
+Oih{T_c4
+,T:A@J8#
+V[[RVVJWc/
+8ZY,c#\v
+cds$(Kpz|
+1d oqKI\
+Y?5'(WG>
+2=`}:1~Q
+	C9uRa	B
+aBh1 X=K
+UD$6=ook
+R~Zr0,(t&
+63kU3=FNT0
+kKr0WcIXy1
+g/0$ B'GI
+FU=RL?Qn|
+MC~J*@7)
+B3krC*Mm
+RH(E\p)o
+|J/yE.WS
+hs7zMS4 
+YWIG<Sq"
+z]=k1%M3
+ul/e7&bf
+O+_Q_.d!
+{p$s8O+}
+v<pb@}>(
+$r[(ZA2Y
+[Uy/9Z3Lyjfy
+iu<lmd11N
+PECompact2
+M1f0}	C2+
+*XI!AY+E<F>_
+u}IgB* I
++"%f}\KTMd
++@[{!/6W
+-\R9C>VkpE?
+r[	MpmV!
+'!KFTB_Df
+C2+aMTn	H
+6.gZ(YEU9
+9w8EvS"[
+b-HKUA6$[
+_})~7= XC
+v(x.TzrG
+>@Y=E.5F}
+WNYw32?Kd5
+F-]'^#H&
+RK2q8^cFZ
+WG7d-v] 
+%5*Bz@	fHO
+< 0Wh8?v
+xldP[2<?
+W /(qQ\RU
+TX-ZCHcZ
+!$ouTy+r
+8Lw_UdJr~
+Vq%'W6;E\
+k5NUUUUTST5
+qA^6czO@
+*q1}BIIg
+&uNzW65h
+~+A.q]70Z>
+0a:*;tEq
+t0J>m9WO
+.Tx&'l4qL
+:i;7eYNm
+XtPC3	?!
+bq';,3whHw
+@Ozm5@Zw0M
+9,'fLuhKHL
+=L=]KFUt
+rMMJIhiik
++K@H~:PU
+*pVTBN2L:V
+V)SVbVr4
+iWVIi7WY
+Gjv	H/zK
+fv?IonIy;
+IonI.9?-A
+'fpc\N!v<
+TH~qw<?D
+^gvooB_P0o
+}5'++|Hj
+rz!:,q-<
+gg?h}H;g
+0$KWm~P@
+\-0L5L_e1
+:~@.d[D}
+pUTwE#Sv
+p_CccO\t
+1 j/]h>d
+Fr@\-Gy(t
+8p%/yCH\kik
+I$!QlCm1{
+tr}%\_)s
+4sbwZR(v
+OIA!l	>	MJ
+cxBr$-|x
+giBUNP7V
+VQpvd@VGq
+%!-)51?9
+ogogogogQ
+{;{;{;{;{;{;o;{{{;o;{{{;{;{;{;{;~;}
+ZS/-+/--
+VwzWT?\*6
+w;D.%BW@Vz
+}$(XSJJ!
+S%~=,2hH
+`Q\$OF@E
+(D$QhsD~
+P0>h/MxV
+01XxvM%xR
+U&(`&s!*}
+@Xc5}!.)
+5_k0Pl'M
+zq(Jyp6O
+]FHDKVoo
+R r|'#N'l
+3xIcrL'&
+On,Am&.->
+V~=MYH$2;
+T/@Q!9K]
+<-kg?1Ge&
+>mvPL;Yk
+{2dP,4(<0P
+>[Hqx5:f
+i~8r	(Yf
+J*CQN)zGL
+Inno Setup Setup Data (5.5.7)
+Q9B{l[n#	
+~CS|(?nK
+O^#2HFY,z
+$j]}n[-6
+Q>L,07)`5
+=+g7L?" 
+{ls'Zkd4
+M_Q8d<IU
+-( L+ua?
+hWWj1&6Lc
+=i*ys/	b
+`'rG=L	?n^
++`G3lZ6S
+"8@|SA4%-
+>^jtM1x_
+zin'!)iK
+r_SM|GF'
+S[(BW|u}@
+/)U)yP' 
+T5&(ZR&n
+V4#!I7*0
+s5%E\#cz{4
+qu%;7Sva6
+	)GT_]&fk
+^+y\TQyq
+brH( PS:HCS
+W8!55Pto
+CMJc0^][
+}iCv@I_i
+$a/XflD2
+2x|{u5He
+6w{{0Y X
+{ACZRF[M>9
+&>A&f[d/
+jK!6Y^2K1
+q'YF^s!;
+/fPWHQiA
+	D%\l7]P
+.|Hz2W<u+
+(oCw}_U;D
+}FR(5Nr`
+zD''TY$,p
+~(;@"$	B
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://
+SNL8,N=T
+\_'8rB>)
+Yu]<.cW KEU>.
+ChpSf/u*
+FW=9BD1W
+v+U)7TWe
+it8SGt*Z
+2KML7i]G
+eJg#MSu}
+:o+9;o,9
+D!Fw|_jg
++\XHJsyC~#
+STc0>:aKmc
+
+FLOSS static Unicode strings
+PACKAGEINFO
+MAINICON(
+VS_VERSION_INFO
+StringFileInfo
+040904e4
+Comments
+CompanyName
+SmartPDF                                                    
+FileDescription
+SmartPDF 10.32.0.64.2 Installation                          
+FileVersion
+10.32.0.64.2        
+LegalCopyright
+SmartPDF                                                                                            
+VarFileInfo
+Translation
+/1011111110
+
+
+FLOSS decoded 0 strings
+
+FLOSS extracted 0 stackstrings
+
+Finished execution after 16.688000 seconds

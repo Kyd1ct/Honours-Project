@@ -1,0 +1,5 @@
+SHA256: d50c43ec7c8dc7954302defe5f9cf729e9919231f031f34c953b76a0af81ac09
+MD5: 2cf1c9c0bf6f1cdc50c8a18e460c88ec
+
+Identified by AV vendors as malware.
+

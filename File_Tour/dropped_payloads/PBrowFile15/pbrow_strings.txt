@@ -1,0 +1,212 @@
+FLOSS static ASCII strings
+!This program cannot be run in DOS mode.
+AWP_bcaK
+*'dDPv]{`
+_T>9,qE=
+FI5(YE2l
+sbqd7$+/
+)GIKSxv~
+/QZ !w;&a8
+_CorExeMain
+mscoree.dll
+v4.0.30319
+#Strings
+#Strings
+dfgregre
+<Module>
+ArowuIOAncodntQOrHVwMgqTckblH#KiFt+Y,;$E2BG'OB~$-Sso!
+GwtemFeqcbzAQQgLFfAtrkEMIOkQA@~kMlKio;FfU1P)-OG9'R^[E&
+YWJHtGFiFyDjFbPdhDKHGAmDeDOuBD8hAp!4<aI>bN,1fe|)uE8W|'
+mscorlib
+GCHandle
+System.Runtime.InteropServices
+fkZfDGVpaXBdtFcFuyLtSnChrMCUCk@B~X/(>&,H!L&#*s#Ly%X#"
+QfZYOtIpNTVePGvDyhrExKDXTJQk84F0;xbZPTxn9`mkFKgjP2>Y!
+Assembly
+System.Reflection
+ResolveEventArgs
+uzvFZKGROZIoBYfclvyBCrtwDKmx;|kn\#2%DmBh4 &E;\#Uq8L]&
+RpuEQZinbuKoyscUSRnjoRwwkmZj@?o6-9[k]j1WL>b|WkV&E5p]!
+VirtualProtect
+kernel32.dll
+IPNWAfWKwvrknHPvNilSEOrqZGKdrv-!YLPpgQ$b0_-I6tRim~j?
+dFFismCEbWNWNlhnnxqUeNXeNNsmSG4O[Zr7N#+I5[malb;Beb&t!
+CyPUTartsYlXSYDfXSgOuefYcQMBA0)D-&@3GVl\F:7foJrS 4^3L#
+YoqemzWLIrhaNIgOfnaDDfseJLpnA4p""UR1!&52luRUO#C}qC!3q!
+ValueType
+TmKoXlgUCFKJYfBYOwtfLCvmBRFeAz#R`/,(8j`(bAT~"o D5%}L>B
+epwZvJVuEKTUWMUfHTygJUzqPEhViYY1:@FPFR7TNa+Qs3H ?nus$
+dpKErDeiapolJBdFMfvTGsQIiNruB;50=xSy5su+IOVJ?&6=|}9l"(
+fZGkVQVDnYyLoLSylDfnIFghygdH/o<1+|=/:1a 21q-$p'Agk0w"
+cxufvMfBVHdWFaUqEorXsHFOVHrfc*>wE6ULBp8%2lw(k"zLND/Jg/
+DvGgOCLVxfWdFQUAYNdJMTNqFGZE'LRqxDv{Ch x~3tXbf<A[::Z
+jJXjqIbQGDvawQVzmPREZFXFAKoi&9vi0(TVHm{TX"M~fIJ:::5c#
+KkEhPNENZZiWIVMDTPqwUnMbBfgC^9P1dpPhZc\#5<n!YF}UE0}g
+FGWunUJkLLYiLUiQBqZqADFhxZGHZJcK>:U=B0p#8`!1k%(:_(%Y!
+zjXtjyNnKkCKAWUqOPPgxCotJdAXq88ayrB)GZPVW$-2szYikWx:"
+feWJAIoVHiymwCPLkSSGQeUfJzCI,t!Rxs'#w =%Wfc~d6X>7hd:"
+aabiwFwcVfhoDjQouKnTKFAocQzyYo QTGfj7&~k_\Cfdd\DO+*m
+System.IO
+gJXdUgGkZQvGPfhAyrLuWAkBqOkGbOpjNGFSHx|Rp"rm2!&t*2:r3-
+XwNfTwZgnXelWawrjqyStLIOBgRDb#y'v;V> ZQ8`A5*A&t+rvo:>'
+ERtWQOojuMVdbENjlJEzKXPzUPqw!"_\-OiOb7;*NEkp%/h\ERT[%
+VPGxWyTlyrQJFLKEFnxkWXAiqUzW0 z^SLVwYJt Vpn{(o<hIt~]#
+tUTDsabmhvtGrQauViBxnBSXLmgIE0DB_1'7KeIx<MRMqFMdrr;!"
+onfChuFCZGLskJqHGRbNMaBBMyFv*Rq9sz!++o1EJVNIL&X6RUU<$
+lObexEdSXqOZfaWTsKMrdnDbAVogb,vG/FM0~u~_u8l7T&qcHy0Ea"
+ZrPMOCjdZADQivKVjDJUdAreQfyhA8{nd'MTvrp(e@2g>B[j,G$=e!
+ldQfVKutXGPlbNToyRAEizjXvIncq'ZC:A5L~raL`&i^p{I)hEb5
+UbRcTFHqGecjrufEEdUToKKGCyBebFgTf@?_`{&s$/lrpFn)Lpy=R'
+iXCcZFaUwfuogfkLbgFsLhgxnLNi7Pz Z}~mQ;uG((=1Yr\ 7yp{
+rkMVZXhHJLWjWmJJoKTIOXDGhMbH}xbnL,sJV 'HE'])g'j!\mps"
+tCsMDYIfQMIUCgyTgnccAXOyHsKAmz6L(BW`~?~DG-YdkjTZ>nC%
+UfWKwHeVfKFZisGNsrTJQOuzFXBzL^vg+G6gf0mM HA:!|\5_8Uv%
+JyjecVebEEfnuicKhaIiFdjJnuDIczzsST1s^H}&aS+uhOT({_g0d$
+ueUTidfqKjGyaVSIYgSDNVzDDmDKA]UD;5:sz{]/b~'80djHY4qs%%
+RryatjSQrLZhpsoJdADWjlMyBiSDN+"ECh+00t[W4c?nL0a{$Z!{!
+QrobxcTsNeAyFxDLCzVbllGlWvQSXVE?ofj)AK)wCr\L96E^EW\@"
+xVjsSxjObKHCmTlEHqslCPkoWIAFmsAmBy4JXvCH;$F&7%Wvq<\p
+qzBWqSOiKvSviqMKnRWasDJvfZugAU*<QrKrLeACT/'{V7e*J]'!$/
+XItXwyPQJgTwycYPzYJuzCrjiUsP66$m*B>vQ|$G[) '2/}qgUhC)
+nBnnuGnxReuwUJPaFtHqxlvvXjJHY's(zskl?(:4W$xICN=i9R8 "
+VlvkcbHLWjOSEiUxMcxybSxLgpVSBH$Yw$r@yRd~,"|GO\5=Jc_X$
+FaLphfqPOAgvJwNdYNsVOTGExIcyDuxsW/VP'AzT_wJ )lbD|4)m$
+SPQCXgeKOjviARUpfRpxNiBIRuMX|T)ta_6)7kNi-eK;s(Vt-[2N$
+WqLfPuJvRSKHRVGuMXVKtrJLKBmNDr#0E|5+Jj6zt$v'x<5`f%e="
+aVatCKXfwZlHJNKWRPtPTkTkxsMUWhEj\+25hl*j@z\Qn~JT$;~t#
+ieLheJaBZMGtufKzbTrADTpTelLebU"8M8 &~4c9id3qYB-LQ)t72-
+ACfXTzlMhqmNhMOMKcfmDarMnXio)/g-y>$uyD$34rz"EQ<Q!K:5*
+oFcRhKOUsMrbMIMRHSkfPmWAurnWG:Ocz5'k%}N&d6VY_a#PrOA*&
+cinGDeSUtzAGlXUSlVddpTiWgKCMQ,IBg^b"*n5`R'keP5&$H0~d%
+ORIpnrYZTAdgkUEwqDpQVQvMQbqwV{+oU)YpLAm(#omo%y8W`/e_"
+sWdnZZKUzouWWaHZApmRFiKPuOqviq9^^'~i7n2ae+N  p+lp>sQ$
+aVVNlyuQlxZBmiFwXOWtIwHCBoUc(1>TAUDhq2CQN|>v2NklrvO0
+HMvGirejhzjnQiCfFWyDjDJrjHsHAz+u1emCu3APZmAJ}(lw:m#\y,
+cPdPCuXcWzZTcDxqUVyaixbUHokg9G&Z"z`Nin7^:i6@y CaZH&,$
+IigfLmvDXZfjWDySzvDkHoBvehOBA6iwL&(-j#q6YeLGL]1Jx[e0P#
+uACqBdBPpjnpViMtmflcBgADVbapA 5pXQ%J&[Q2`{3omR{K4t3I{)
+UamzUhZaahxXuXgDjASxncSDTxKI:SGE(f4?W*S|ypQnY(ZnrL0t
+cloNRjqSKJtdFsfzVeOzjiHGJQeGQ$9!q$(RD"v;d"+/eJ,nrP&U$
+rWZdrujpBSRktVwqLuPrSFxtxzxmA* T,9_3t8s#yAC~D3"0G_KEq)
+ffPgEuHtHWmPrYVCZeDZJXDCpibmA9)x>Y]1)~jCu4P)vz2)T^m[y#
+bsKzTonVdJiCZpLfgordenOdAmXR9@R#1KAI:>9+3MaQZ;SbIB,b+
+MUUAcWRKsnSRXGAGnnOIVOnpdBmaAZ=bIXz6[UdxQ<t}@)zfQaZL7'
+CphGfRkTfcAYXbvDHQCshLIIVLiye:5=YhepK{+j^]l'`^Cl~Lt;_'
+voHIDKmsoKBfBhwrWXSURXOdRuyf_K)'lOHE# <C$[-PLlFR;HAw!
+IPOiiHmaXbcitDWdbCSwoySdjRopA<0H;D(_F(uu-Ri7lFso4(| S'
+KqZgankTnQpOyVetzPJAcqZHJXvAbT6-O_e<W0|#$"a*%PNyP\KzQ)
+pofHrbSeBlbIAfbYIyFxOPKgmGHi*(&@GJ /714>gV~?[IDJe(1V#
+mzhpsFXOXKErdDLkTKQPfcuICPDZ13U;)4:rlOM||G'T+%u*@'-6)
+iLNQOcpWkqJYmUukXwXZlPJJqOCrw@\#Q,iaeNM9)A6+{6mpH$\b*
+SwLjYmutUWabHvqxHAnMhVPlOhozLTfREiI|\,>:5o27/)FZc J1&
+ZmiuvbrmmBVtyuATaDQikuWjcOqGzX{];$+"\:,$1!"@wbmHMQqK"
+bqWAJBgCiHaRKcMVuZsrJlBUkLocAE8f-!KBApX'<XJ9O?,erBx$$$
+llJlUOkeQYDckkcCXbQbMDILOmHvAud2)L}Y''SYeCX:V{}zh@G6+"
+jIClTQogOkQevhPFzdbfxmuBosVHI\4}P&'\=JE3907AaHGM6[!>#
+YhIvukrNnKOsKjPlKRcguGoXaYSIV b5im%xv#63W!+%S4c1\ %;"
+oFtfsrWqfaGdgRluZhdPVwPCxsUWWf3_5J3=[q7Nd&%S(F@vP7D:&
+bbyLYUPxUGQGtCLPegxcbtotCDo(o~JC#]%\P-aF:5M=CyGTnF'
+xljBIYiamNMfvptkexAmihEkdcDAA(PoV81k*4$5W= A\*z/T_5B~!
+NMJFEbALWKjQdAoHwuqqBaEMamZYAf28^1X!>-l1v&hE7Q7/ZH5Y`$
+blOkTuIcOtckQXBechzRBaVIDjJLk{fka@V,Aejt(gW(|xLy<d:>
+qRnwHQOptWcOTiMoRuGNmXRamLqs9"}PzA\5!:B)c/JRev&!;>!]&
+ertgrfvdfs
+AssemblyTrademarkAttribute
+AssemblyCopyrightAttribute
+AssemblyProductAttribute
+TargetFrameworkAttribute
+System.Runtime.Versioning
+AssemblyFileVersionAttribute
+ComVisibleAttribute
+AssemblyCompanyAttribute
+DebuggableAttribute
+System.Diagnostics
+DebuggingModes
+RuntimeCompatibilityAttribute
+System.Runtime.CompilerServices
+CompilationRelaxationsAttribute
+AssemblyConfigurationAttribute
+AssemblyDescriptionAttribute
+AssemblyTitleAttribute
+STAThreadAttribute
+GCHandleType
+RuntimeHelpers
+InitializeArray
+RuntimeFieldHandle
+GetExecutingAssembly
+get_ManifestModule
+get_Target
+LoadModule
+ResolveSignature
+AppDomain
+get_CurrentDomain
+ResolveEventHandler
+add_AssemblyResolve
+GetTypes
+ResolveMethod
+MethodBase
+GetParameters
+ParameterInfo
+Encoding
+System.Text
+get_UTF8
+get_Name
+AssemblyName
+get_FullName
+ToUpperInvariant
+GetBytes
+BlockCopy
+ToBase64String
+GetEntryAssembly
+GetManifestResourceStream
+get_Length
+MemoryStream
+ReadByte
+GetTypeFromHandle
+RuntimeTypeHandle
+get_Module
+GetHINSTANCE
+op_Explicit
+get_FullyQualifiedName
+get_Chars
+.NETFramework,Version=v4.0
+FrameworkDisplayName
+.NET Framework 4
+WrapNonExceptionThrows
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <assemblyIdentity version="1.0.0.0" name="MyApplication.app"/>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v2">
+    <security>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"/>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+
+FLOSS static Unicode strings
+&WATER_DROP_RECYCLE_ECOLOGY_ICON_191885
+VS_VERSION_INFO
+StringFileInfo
+000004B0
+Comments
+CompanyName
+FileDescription
+FileVersion
+InternalName
+LegalCopyright
+LegalTrademarks
+OriginalFilename
+ProductName
+ProductVersion
+Assembly Version
+VarFileInfo
+Translation
+
+
+FLOSS decoded 0 strings
+
+FLOSS extracted 0 stackstrings
+
+Finished execution after 0.000000 seconds

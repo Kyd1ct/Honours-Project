@@ -1,0 +1,13 @@
+Encryption and connectivity blacklisted libraries
+
+Blacklisted functions covering:
+	- File/Process manipulation
+	- Enviromental variable manipulation
+	- Enumeration
+	- DeviceIoControl
+	- Encryption
+
+Executes with SmartPDF.exe, creates encryption/connectivity dll files in some of the directory exceptions. Possibly ransomware capabilities. Checks Enterprise and System certificates within the registries. Checks cryptography related registries. Opens ProfileList reg keys.
+
+SHA256: a45d807e4bee0a8fdb47ca4d899b0b44a0834bafc222eaaa589917d7714f05b3
+MD5: 93e0a54822a5609a66f51bd9bf60b071

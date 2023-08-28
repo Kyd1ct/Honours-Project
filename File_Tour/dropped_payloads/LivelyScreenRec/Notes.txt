@@ -1,0 +1,8 @@
+Costura assembly loader
+
+Downloads and executes a temp file on launch
+
+asInvoker manifest allowing it to run with the same access token as the parent process (https://stackoverflow.com/questions/8671579/what-is-the-difference-between-asinvoker-and-highestavailable-execution-level)
+
+SHA256: d986c5f06a66c89f8bdf03288177b2a5c9e9413c96c3d8b0878a49b431735654
+MD5: 53b01ccd65893036e6e73376605da1e2

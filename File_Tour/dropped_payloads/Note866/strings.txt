@@ -1,0 +1,198 @@
+FLOSS static ASCII strings
+FLOSS static ASCII strings
+!This program cannot be run in DOS mode.
+ ,R.rxZ1
++?+~y*b\
+t@0<9	[)
+1;]-;MQ-
+,]NVw.RA
+gIFLxU>y
+HOl0( =5EPIyn
+ytT8z:Dz|
+v>Q'ty[b
+Vi{;[)AL
+e|vS$4SI
+24ff?}4j
+yOcu0Gk_
+5sr5Vc<g
+wp%w%1i`
+W[_>?Ig,B`
+:'iYF=jvN
+m=mAWF~Q
+4Vh2R"+	
+%J@6]em3
+[|ok9eQ)/
+c?s6^&cd
+aS[XSd<y
+qFz.D{:73(
+7xL0]dEk
+d:#pWsQM;
+5^wvE}a*~
+Ib$t	y^Q=
+H|z/:P6'
+D\fryM-:
+FjK?$7X?A
+eD&~#Epc
+sN="7yAV
+GqukA"\b:
+#LsRq/s@
+fF	dotuX
+]o<LXs7#
+.^;&y\#OY
+)|wUnP6RW
+d`h_W~s#
+`p3^r^{vL
+:%UyQCb@
+y*i?5:}Cm
+b5,*QTc<M]
+`G>b\/_N
+J YG$`C_
+Y[oeEp-9[
+wUPB2s:f
+,`i%7b~<y(J
+,H(/<tB6
+N(i216Rx3
+h4zUCq[*
+9'ttfv>)
+8di@agNJ
+,e)K(+ix
+ErJ8@C,I\
+S|)UWhjR
+v!9VG'K8N
+iIYX)4~H
+@,d	~#Uf
+wX(XezLn
+B;\>\BO2
+"5jt_xAQ
+4cK\kp3R>
+r~23_U(uP
+M7}^V?Pb
+y:n81~pbB3
+yMNa:*Z\
+;y'dWwe}
+:AgdT?SB
+9M+d/d7P<
+=p]$q?:D
+.qg5j\^q
+#sJpWS1"l
+[xrz4u 4
+0py*!e.$vH
+^6Jc6lg)
+J3u#*yAT
+\Em6g3^O
+n66nuu(f12
+-dkpq<+q3
+:?6~r965
+( (n ]cV
+W)*'/L.Y
+<dG5{R} 
+6 fOTeLx
+M%K5`DEu
+=mz;nFm:j8
+hlFt~IX{
+d"3um; 4H
+T;),las]
+/JF4]Vq=
+o?$V	%M~
+VcfmOMX}
+'e5`)q+EaI&
+DVco07div
+>^roL>[,
+(HX`e&Ps
+y{<+.`Roh
+r?2-9_e!Y
+p?W;	d;\
+mC,!0(MNr
+^@~^w:d^aq
+baP}	:!vd
+(;W&M6.d
+MS"D4](^
+|M#(z+\E
+;GJH* {"
+Ryy2}Lt5
+xtm4Lp8'
+|8%:X^AK
+_:uzT)|[;
+]&bP2!`G
+-IEbh#:cL
+M0h?lt`P
+_Vjvmadp
+s0wBjk_!7n4
+0.t%;~xID
+Oih{T_c4
+,T:A@J8#
+V[[RVVJWc/
+8ZY,c#\v
+cds$(Kpz|
+1d oqKI\
+Y?5'(WG>
+2=`}:1~Q
+	C9uRa	B
+aBh1 X=K
+UD$6=ook
+R~Zr0,(t&
+63kU3=FNT0
+kKr0WcIXy1
+g/0$ B'GI
+FU=RL?Qn|
+MC~J*@7)
+B3krC*Mm
+RH(E\p)o
+|J/yE.WS
+hs7zMS4 
+YWIG<Sq"
+z]=k1%M3
+ul/e7&bf
+O+_Q_.d!
+{p$s8O+}
+v<pb@}>(
+$r[(ZA2Y
+[Uy/9Z3Lyjfy
+iu<lmd11N
+PECompact2
+M1f0}	C2+
+*XI!AY+E<F>_
+u}IgB* I
++"%f}\KTMd
++@[{!/6W
+y-\R9C>VkpE?
+r[	MpmV!
+'!KFTB_Df
+C2+aMTn	H
+6.gZ(YEU9
+9w8EvS"[
+b-HKUA6$[
+_})~7= XC
+v(x.TzrG
+>@Y=E.5F}
+WNYw32?Kd5
+F-]'^#H&
+RK2q8^cFZ
+WG7d-v] 
+%5*Bz@	fHO
+< 0Wh8?v
+xldP[2<?
+W /(qQ\RU
+TX-ZCHcZ
+!$ouTy+r
+8Lw_UdJr~
+Vq%'W6;E\
+Jbsku$^a
+yw'O/N7u
+{De-So:v
+Wf`W!C0!@m
+#7GBd<K1
+*>kE4pl2
+tWUWuWuU
+p}@4z\N-
+kernel32.dll
+LoadLibraryA
+GetProcAddress
+VirtualAlloc
+VirtualFree
+licat@on eqr
+The|g<cgd
+FLOSS static Unicode strings
+
+FLOSS static Unicode strings
+

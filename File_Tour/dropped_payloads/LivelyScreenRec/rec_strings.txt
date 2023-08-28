@@ -1,0 +1,1334 @@
+FLOSS static ASCII strings
+!This program cannot be run in DOS mode.
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+hSystem.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3aPADPAD^V
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Bitmap
+tEXtSoftware
+Adobe ImageReadyq
+@.r&kPSiQ
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+fSystem.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3aBj
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Icon
+IconData
+IconSize
+System.Drawing.Size
+System.Drawing.Size
+0%IGw-av
+7JL66]lqAN~
+Su'tB3fG
+_f@/ "\}9
+@_/ysbYV
+zj]WoooS
++a9#M9/l
+JM%USv6Yy
+paaaqlll
+-Vf":Uqrt
+ """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+7hgQR:0p
+^]]-/..~
+\rjj*9>>
+b02!@Gyo
+HJ^eyyy&
+3***Y777sBBB
+777s***Y
+3777sBBB
+3!!!MGGG
+3111fMMM
+3***YLLL
+)***YLLL
+)***YNNN
+aaa0aaaPaaa
+aaaPaaa0
+@111fBBB
+3777sDDD
+3111fGGG
+3777sMMM
+)!!!MJJJ
+ !!!MLLL
+ ***YNNN
+ ***YNNN
+ ***YNNN
+3***Y777sBBB
+777s***Y
+3***YBBB
+&!!!MDDD
+&!!!MGGG
+aaa0]]]Paaa
+aaa@aaa0
+-!!!M;;;
+&!!!MDDD
+&111fJJJ
+aaa aaa`aaa
+aaa`aaa 
+3"""Y'''f'''f'''f'''f'''f'''f"""Y
+@,,,s???
+3'''f???
+3'''fCCC
+aaa0aaa@aaa@aaa@aaa@aaa@aaa@aaa0
+)"""YBBB
+aaa aaapaaa
+aaapaaa 
+@'''f:::
+ '''fFFF
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+fSystem.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3ahSystem.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3aPADPADP>
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Icon
+IconData
+IconSize
+System.Drawing.Size
+System.Drawing.Size
+0%IGw-av
+7JL66]lqAN~
+Su'tB3fG
+_f@/ "\}9
+@_/ysbYV
+zj]WoooS
++a9#M9/l
+JM%USv6Yy
+paaaqlll
+-Vf":Uqrt
+ """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+7hgQR:0p
+^]]-/..~
+\rjj*9>>
+b02!@Gyo
+HJ^eyyy&
+3***Y777sBBB
+777s***Y
+3777sBBB
+3!!!MGGG
+3111fMMM
+3***YLLL
+)***YLLL
+)***YNNN
+aaa0aaaPaaa
+aaaPaaa0
+@111fBBB
+3777sDDD
+3111fGGG
+3777sMMM
+)!!!MJJJ
+ !!!MLLL
+ ***YNNN
+ ***YNNN
+ ***YNNN
+3***Y777sBBB
+777s***Y
+3***YBBB
+&!!!MDDD
+&!!!MGGG
+aaa0]]]Paaa
+aaa@aaa0
+-!!!M;;;
+&!!!MDDD
+&111fJJJ
+aaa aaa`aaa
+aaa`aaa 
+3"""Y'''f'''f'''f'''f'''f'''f"""Y
+@,,,s???
+3'''f???
+3'''fCCC
+aaa0aaa@aaa@aaa@aaa@aaa@aaa@aaa0
+)"""YBBB
+aaa aaapaaa
+aaapaaa 
+@'''f:::
+ '''fFFF
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Bitmap
+-&("SW<qy
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Bitmap
+aIDAT8Oc
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Bitmap
+WIDAT8Oc
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Bitmap
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Bitmap
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Bitmap
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Bitmap
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+hSystem.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3aPADPADE
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Bitmap
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Bitmap
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Bitmap
+oIDAT8Oc
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Bitmap
+_IDAT8Oc
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Bitmap
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Bitmap
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Bitmap
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Bitmap
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Bitmap
+[IDAT8Oc
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+hSystem.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3aPADPAD
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Bitmap
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Bitmap
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+fSystem.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3ahSystem.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3aPADPADPBj
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Icon
+IconData
+IconSize
+System.Drawing.Size
+System.Drawing.Size
+0%IGw-av
+7JL66]lqAN~
+Su'tB3fG
+_f@/ "\}9
+@_/ysbYV
+zj]WoooS
++a9#M9/l
+JM%USv6Yy
+paaaqlll
+-Vf":Uqrt
+ """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+7hgQR:0p
+^]]-/..~
+\rjj*9>>
+b02!@Gyo
+HJ^eyyy&
+3***Y777sBBB
+777s***Y
+3777sBBB
+3!!!MGGG
+3111fMMM
+3***YLLL
+)***YLLL
+)***YNNN
+aaa0aaaPaaa
+aaaPaaa0
+@111fBBB
+3777sDDD
+3111fGGG
+3777sMMM
+)!!!MJJJ
+ !!!MLLL
+ ***YNNN
+ ***YNNN
+ ***YNNN
+3***Y777sBBB
+777s***Y
+3***YBBB
+&!!!MDDD
+&!!!MGGG
+aaa0]]]Paaa
+aaa@aaa0
+-!!!M;;;
+&!!!MDDD
+&111fJJJ
+aaa aaa`aaa
+aaa`aaa 
+3"""Y'''f'''f'''f'''f'''f'''f"""Y
+@,,,s???
+3'''f???
+3'''fCCC
+aaa0aaa@aaa@aaa@aaa@aaa@aaa@aaa0
+)"""YBBB
+aaa aaapaaa
+aaapaaa 
+@'''f:::
+ '''fFFF
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Bitmap
+OIDAT8Oc
+}M|s*Xvg
+9&Unu30F	
+DRpo:OLL
+5D'u_fYb5
+tGl16#7o&A'
+4@(d,rAGE
+jR,Yat	}
+FEYo9';p
+HW{u~g;2
+OpQ{0Ybp
+8~JW=~eT
+?_pyIeHu
+zo*A}VKA>
+{OBoXt{v
+rf#STp:f
+0kxhxLxB
+-'F+Vv\IV
+f#efZ=nOqX
+tbTEIuw@o
+.gW`Tc}3
+Wd8,+Shr
+qw%*E8'E
+L"hLoHFO
+>XL|4&y<W
+<;R[e Nr
+i1+3w$<s
+<.v1[s{s.9
+o,-]xnii
+EQuk%4_WG
+I&rMIpGz
+.J}[lwj0r
+KO?]*g?w
+RGyJGyRGyJG
+TeH%C9e(G
+24!CSehJ
+NF{P1GbT
+T3{%Tk[M
+QDpeo;O$Z
+;P~ :Sw 
+6s5Kwn3W
+&62Mtd&0
+[E6sE6[E6[Ej-
+/f+-f+-f#
+p8     )
+,4L%#U2F%{b2
+9:Ok7p}:E
+"mr&aI_x
+HWXWO5K0l
+\N``%RVg7L^
+8`}it;Y<w
+Bl6/	)V@
+.!0y$ )r
+YE5Wnre1
+krm6&Em6&
+c$^"&%ZW
+9=Q'v#7B\
+=2&Ps(;1&Ps(c9
+	>APP#,"
+-()j([XR1
+aFmueCii
+,%^UR[VUZV[^5
+Q(Q^R]U^
+P[VS[VWVU_
+TRURTZ][U	
+^PUV+O^=
+Z$w{0Gav
++m.Vcw1'|Qr=
+hFN#uZ%19C+w
+Qe=)3?%3?-K~F
+qDN /v>.
+y_IeUSYO
+R^kg;ntntoC
+jZUuC}Mu
+hW1C"k9T
+Q8gX(A+n
+^RK.ye9r#-
+cqZU@U)-
+f4fF#X%<
+L#A<&A$4
+N".qm1;r
+3I[%N=LI
+Fh6B#j-6
+A;6Tb)tK
+t"v`|3v:
+AtZP;2?mC2y(Vh
+costura.costura.dll.compressed|5.3.0.0|Costura, Version=5.3.0.0, Culture=neutral, PublicKeyToken=null|Costura.dll|790691B8E17BE618ABE2C596B93EB925FC4C1142|4608
+costura.costura.pdb.compressed|||Costura.pdb|52414EC411DEA325110F0AD21378C8D101897989|2544
+costura.naudio.dll.compressed|1.10.0.0|NAudio, Version=1.10.0.0, Culture=neutral, PublicKeyToken=null|NAudio.dll|AFDC5D27FB919D1D813E6A07466F889DBC8C6677|513536
+costura.octokit.dll.compressed|0.3.4.0|Octokit, Version=0.3.4.0, Culture=neutral, PublicKeyToken=null|Octokit.dll|16F3067DA9C0E5F11BDEF93596F49D2D31BA28F0|319488
+costura.quicklibrary.dll.compressed|1.0.0.0|QuickLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null|QuickLibrary.dll|6DD1D6716CB93ADEF6C9B39490A79E77FD5396C9|41472
+costura.sharpavi.dll.compressed|2.1.2.0|SharpAvi, Version=2.1.2.0, Culture=neutral, PublicKeyToken=null|SharpAvi.dll|BDA6A1CF00DE353439553370CD1364B7A1B53205|65536
+costura.system.diagnostics.diagnosticsource.dll.compressed|4.0.1.0|System.Diagnostics.DiagnosticSource, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51|System.Diagnostics.DiagnosticSource.dll|85DC92EDD4B0049ED9049E075C4DEF8A3D64E43B|35760
+v4.0.30319
+#Strings
+<resizeTimer_Elapsed>b__10_0
+<MainForm_Load>b__24_0
+<>c__DisplayClass7_0
+<UpdateVolumeBar>b__0
+get_Scan0
+<MainForm_Load>b__24_1
+IEnumerable`1
+EventHandler`1
+folderBrowserDialog1
+toolStrip1
+progressBar1
+toolStripSeparator1
+set_EmitIndex1
+Dictionary`2
+<Module>
+ReleaseDC
+GetWindowDC
+get_SizeNWSE
+CURSOR_SHOWING
+POINTAPI
+HT_CAPTION
+WM_NCLBUTTONDOWN
+CURSORINFO
+System.IO
+SetAreaX
+SetMaximumX
+SetAreaY
+SetMaximumY
+get_WorkingArea
+SetMaximumArea
+get_Data
+BitmapData
+costura.metadata
+get_Magenta
+FromArgb
+mscorlib
+ReleaseHdc
+CheckStartRec
+widthNumeric
+heightNumeric
+xNumeric
+yNumeric
+System.Collections.Generic
+WriteFrameAsync
+screenThread
+stopThread
+add_Load
+MainForm_Load
+StopForm_Load
+get_BytesRecorded
+add_CheckedChanged
+previewBtn_CheckedChanged
+darkThemeRadio_CheckedChanged
+systemThemeRadio_CheckedChanged
+lightThemeRadio_CheckedChanged
+muteCheckBox_CheckedChanged
+onTopCheckBox_CheckedChanged
+hideTaskbarCheckBox_CheckedChanged
+captureCursorCheckBox_CheckedChanged
+updatesCheckBox_CheckedChanged
+add_OnPeakVolumeChanged
+remove_OnPeakVolumeChanged
+Recorder_OnPeakVolumeChanged
+widthNumeric_ValueChanged
+heightNumeric_ValueChanged
+xNumeric_ValueChanged
+yNumeric_ValueChanged
+add_ValueChanged
+add_SizeChanged
+AreaForm_SizeChanged
+add_LocationChanged
+AreaForm_LocationChanged
+add_TextChanged
+folderTextBox_TextChanged
+add_SelectedIndexChanged
+areaComboBox_SelectedIndexChanged
+inputDeviceComboBox_SelectedIndexChanged
+qualityComboBox_SelectedIndexChanged
+isAttached
+get_Checked
+set_Checked
+add_LinkClicked
+licenseLink_LinkClicked
+developerLink_LinkClicked
+updatesLink_LinkClicked
+issuesLink_LinkClicked
+projectLink_LinkClicked
+Interlocked
+get_Enabled
+set_Enabled
+set_FormattingEnabled
+add_Elapsed
+resizeTimer_Elapsed
+get_Elapsed
+costura.costura.pdb.compressed
+costura.costura.dll.compressed
+costura.system.diagnostics.diagnosticsource.dll.compressed
+costura.sharpavi.dll.compressed
+costura.naudio.dll.compressed
+costura.octokit.dll.compressed
+costura.quicklibrary.dll.compressed
+add_HandleCreated
+formHandleCreated
+Synchronized
+<Volume>k__BackingField
+add_ResizeEnd
+AreaForm_ResizeEnd
+get_FramesPerSecond
+set_FramesPerSecond
+set_IsBackground
+get_white_record
+FlatButtonAppearance
+get_FlatAppearance
+defaultInstance
+audioSource
+GetHashCode
+get_KeyCode
+set_AutoScaleMode
+set_SizeMode
+PictureBoxSizeMode
+ImageLockMode
+SetDarkMode
+darkMode
+CompressionMode
+set_RenderMode
+ToolStripRenderMode
+set_DrawMode
+themePage
+audioPage
+updatesPage
+get_Image
+set_Image
+FromImage
+SendMessage
+set_ClosingMessage
+set_ShowClosingMessage
+AddRange
+CompareExchange
+nullCache
+get_WhiteSmoke
+add_DataAvailable
+audioSource_DataAvailable
+remove_DataAvailable
+Enumerable
+IDisposable
+get_Visible
+get_Handle
+RuntimeTypeHandle
+GetTypeFromHandle
+EventWaitHandle
+get_ClientRectangle
+ToSingle
+DownloadFile
+waveFile
+get_BitsPerSample
+DockStyle
+set_DropDownStyle
+set_GripStyle
+ToolStripGripStyle
+set_BorderStyle
+set_FormBorderStyle
+ButtonBorderStyle
+set_FlatStyle
+FontStyle
+ComboBoxStyle
+set_DisplayStyle
+ToolStripItemDisplayStyle
+get_Name
+set_Name
+GetTempFileName
+fullName
+get_ProductName
+requestedAssemblyName
+GetDirectoryName
+get_Theme
+set_Theme
+isDarkTheme
+applyDarkTheme
+DateTime
+startTime
+get_Volume
+set_Volume
+destVolume
+WriteLine
+ValueType
+SetProcessDPIAware
+System.Core
+get_Culture
+set_Culture
+resourceCulture
+ReleaseCapture
+WasapiLoopbackCapture
+ButtonBase
+UpDownBase
+ApplicationSettingsBase
+TextBoxBase
+TryParse
+get_SampleRate
+Delegate
+EditorBrowsableState
+set_CheckState
+get_White
+STAThreadAttribute
+CompilerGeneratedAttribute
+GuidAttribute
+GeneratedCodeAttribute
+DebuggerNonUserCodeAttribute
+NeutralResourcesLanguageAttribute
+DebuggableAttribute
+EditorBrowsableAttribute
+ComVisibleAttribute
+AssemblyTitleAttribute
+DefaultSettingValueAttribute
+UserScopedSettingAttribute
+AssemblyTrademarkAttribute
+TargetFrameworkAttribute
+AssemblyFileVersionAttribute
+AssemblyConfigurationAttribute
+AssemblyDescriptionAttribute
+CompilationRelaxationsAttribute
+AssemblyProductAttribute
+AssemblyCopyrightAttribute
+AssemblyCompanyAttribute
+RuntimeCompatibilityAttribute
+get_MediumBlue
+get_Value
+set_Value
+TryGetValue
+NAudio.Wave
+add_AssemblyResolve
+Screen Recorder.exe
+get_Size
+set_Size
+set_ItemSize
+set_MinimumSize
+set_AutoSize
+set_ClientSize
+ISupportInitialize
+LastIndexOf
+System.Threading
+set_Padding
+StopRecording
+StartRecording
+System.Drawing.Imaging
+System.Runtime.Versioning
+CultureToString
+Substring
+add_FormClosing
+MainForm_FormClosing
+StopForm_FormClosing
+disposing
+System.Drawing
+CommonDialog
+FolderBrowserDialog
+ShowDialog
+Stopwatch
+get_white_refresh
+get_SelectedPath
+filePath
+GetFolderPath
+get_Width
+set_Width
+SetAreaWidth
+maxWidth
+get_Length
+EndsWith
+SharpAvi
+get_Black
+add_Tick
+mainTimer_Tick
+add_Click
+recButton_Click
+winSoundBtn_Click
+refreshBtn_Click
+browseFolderBtn_Click
+mixerBtn_Click
+settingsBtn_Click
+refreshScreensBtn_Click
+aboutBtn_Click
+PerformClick
+set_CheckOnClick
+set_Dock
+nullCacheLock
+WriteBlock
+updatesLink
+set_Interval
+areaLabel
+inputDeviceLabel
+fileLabel
+timeLabel
+volumeLabel
+licenseLabel
+aviLabel
+LinkLabel
+versionLabel
+locationLabel
+descriptionLabel
+videoLabel
+audioLabel
+folderLabel
+authorLabel
+productLabel
+companyLabel
+qualityLabel
+sizelabel
+System.ComponentModel
+get_SizeAll
+User32.dll
+user32.dll
+get_Control
+QlibTabControl
+ContainerControl
+ListControl
+ReadStream
+LoadStream
+GetManifestResourceStream
+DeflateStream
+IAviStream
+AddUncompressedVideoStream
+AddMotionJpegVideoStream
+IAviVideoStream
+videoStream
+AddAudioStream
+IAviAudioStream
+audioStream
+MemoryStream
+get_LParam
+get_Item
+set_Item
+ToolStripItem
+OperatingSystem
+AreaForm
+areaForm
+MainForm
+StopForm
+stopForm
+SettingsForm
+AboutForm
+get_Minimum
+set_Minimum
+get_Maximum
+set_Maximum
+resourceMan
+op_GreaterThan
+op_LessThan
+TimeSpan
+RecordScreen
+get_VirtualScreen
+CopyFromScreen
+videoFrameWritten
+audioBlockWritten
+set_TextAlign
+AppDomain
+get_CurrentDomain
+set_Margin
+set_Icon
+DrawIcon
+set_ShowIcon
+MessageBoxIcon
+op_Division
+get_OSVersion
+get_Version
+FodyVersion
+System.IO.Compression
+Application
+get_Location
+set_Location
+set_TextImageRelation
+SystemInformation
+destination
+CopyPixelOperation
+System.Configuration
+System.Globalization
+op_Subtraction
+System.Reflection
+ControlCollection
+ToolStripItemCollection
+ObjectCollection
+get_Position
+set_Position
+set_StartPosition
+FormStartPosition
+StringComparison
+get_Button
+recButton
+set_ShowClosingButton
+QlibRadioButton
+ToolStripButton
+stopButton
+QlibTextButton
+winSoundBtn
+titleBtn
+refreshAudioBtn
+onTopBtn
+browseFolderBtn
+mixerBtn
+settingsBtn
+refreshScreensBtn
+aboutBtn
+previewBtn
+add_MouseDown
+AreaForm_MouseDown
+NumericUpDown
+add_KeyDown
+MainForm_KeyDown
+SettingsForm_KeyDown
+AboutForm_KeyDown
+RefreshAreaInfo
+get_CultureInfo
+MemberInfo
+GetCursorInfo
+darkThemeRadio
+systemThemeRadio
+lightThemeRadio
+separateAudio
+add_MouseUp
+AreaForm_MouseUp
+QlibToolStrip
+aboutTooltip
+get_AlwaysOnTop
+set_AlwaysOnTop
+FileDrop
+add_DragDrop
+folderTextBox_DragDrop
+set_AllowDrop
+set_TabStop
+get_white_ontop
+get_white_stop
+allowDarkModeForApp
+generalGroup
+videoGroup
+infoGroup
+audioGroup
+optionsGroup
+System.Linq
+UpdateVolumeBar
+ProgressBar
+get_HideTaskbar
+set_HideTaskbar
+set_ShowInTaskbar
+set_DeviceNumber
+AssemblyLoader
+get_Folder
+set_Folder
+SpecialFolder
+DrawBorder
+Screen Recorder
+MuteRecorder
+quick_screen_recorder
+get_Buffer
+get_ResourceManager
+ComponentResourceManager
+ThemeManager
+HotkeyManager
+KeyModifier
+get_white_speaker
+MethodInvoker
+LinkLabelLinkClickedEventHandler
+ElapsedEventHandler
+MouseEventHandler
+ResolveEventHandler
+DragEventHandler
+FormClosingEventHandler
+KeyEventHandler
+System.CodeDom.Compiler
+updateTimer
+resizeTimer
+mainTimer
+IContainer
+get_Owner
+set_Owner
+WaveFileWriter
+AviWriter
+add_DragEnter
+folderTextBox_DragEnter
+BitConverter
+get_white_mixer
+set_Anchor
+get_Major
+set_BackTabColor
+DarkSecondColor
+set_HorizontalLineColor
+set_ForeColor
+set_ActiveColor
+set_BackColor
+set_UseVisualStyleBackColor
+DarkBackColor
+set_LinkColor
+set_ClosingButtonColor
+set_HeaderColor
+set_BorderColor
+AccentColor
+set_ImageTransparentColor
+set_TextColor
+set_SelectedTextColor
+get_CaptureCursor
+set_CaptureCursor
+captureCursor
+ToolStripSeparator
+videoStr
+audioStr
+settingsTabs
+SharpAvi.Codecs
+get_Graphics
+System.Diagnostics
+get_Seconds
+get_TotalSeconds
+FromSeconds
+get_Milliseconds
+set_BufferMilliseconds
+get_Bounds
+RefreshAudioDevices
+System.Runtime.InteropServices
+System.Runtime.CompilerServices
+System.Resources
+ReadFromEmbeddedResources
+quick_screen_recorder.AreaForm.resources
+quick_screen_recorder.MainForm.resources
+quick_screen_recorder.StopForm.resources
+quick_screen_recorder.SettingsForm.resources
+quick_screen_recorder.AboutForm.resources
+quick_screen_recorder.Properties.Resources.resources
+DebuggingModes
+GetAssemblies
+WaveInCapabilities
+GetCapabilities
+quick_screen_recorder.Properties
+EnableVisualStyles
+AnchorStyles
+resourceNames
+symbolNames
+assemblyNames
+get_CheckForUpdates
+set_CheckForUpdates
+FileAttributes
+GetAttributes
+get_Minutes
+get_Flags
+AssemblyNameFlags
+Settings
+get_white_settings
+OnPeakVolumeChangedArgs
+LinkLabelLinkClickedEventArgs
+ElapsedEventArgs
+MouseEventArgs
+ResolveEventArgs
+DragEventArgs
+FormClosingEventArgs
+WaveInEventArgs
+PaintEventArgs
+KeyEventArgs
+<>4__this
+System.Threading.Tasks
+get_Channels
+get_Controls
+get_Items
+System.Windows.Forms
+RefreshScreens
+get_AllScreens
+set_AutoScaleDimensions
+MouseButtons
+MessageBoxButtons
+ptScreenPos
+startPos
+set_NumberOfBuffers
+fsModifiers
+System.Timers
+SystemColors
+DataFormats
+DragDropEffects
+LockBits
+UnlockBits
+components
+RemoveAt
+get_WaveFormat
+set_WaveFormat
+PixelFormat
+set_Effect
+IDataObject
+GetObject
+System.Net
+get_Left
+set_Left
+get_ControlLight
+get_Height
+set_Height
+SetAreaHeight
+set_IntegralHeight
+maxHeight
+op_Implicit
+op_Explicit
+BeginInit
+GraphicsUnit
+get_Default
+SetCompatibleTextRenderingDefault
+DialogResult
+ToLowerInvariant
+WebClient
+PointToClient
+ContentAlignment
+Environment
+InitializeComponent
+get_Transparent
+set_Current
+GetDataPresent
+WaveInEvent
+ManualResetEvent
+AutoResetEvent
+ControlPaint
+set_Font
+get_Count
+get_DeviceCount
+Screenshot
+ThreadStart
+get_TopMost
+set_TopMost
+get_white_about
+SuspendLayout
+ResumeLayout
+PerformLayout
+SharpAvi.Output
+get_Text
+set_Text
+get_ControlText
+set_ToolTipText
+get_Preview
+set_Preview
+enabledPreview
+set_KeyPreview
+get_white_preview
+get_Window
+set_CanOverflow
+set_TabIndex
+get_SelectedIndex
+set_SelectedIndex
+inputSourceIndex
+get_QualityIndex
+set_QualityIndex
+QlibNumericBox
+MessageBox
+logoPictureBox
+set_MinimizeBox
+set_MaximizeBox
+QlibCheckBox
+muteCheckBox
+separateAudioCheckBox
+hideTaskbarCheckBox
+captureCursorCheckBox
+updatesCheckBox
+areaComboBox
+QlibComboBox
+inputDeviceComboBox
+qualityComboBox
+QlibGroupBox
+fileNameTextBox
+folderTextBox
+previewBox
+Lively Screen Recorder_ProcessedByFody
+ContainsKey
+RegisterHotKey
+UnregisterHotKey
+set_TransparencyKey
+get_Assembly
+ResolveAssembly
+ReadExistingAssembly
+GetExecutingAssembly
+get_Primary
+QuickLibrary
+EncodingStreamFactory
+get_SystemDirectory
+op_Equality
+IsNullOrEmpty
+WrapNonExceptionThrows
+Quick Screen Recorder
+/Lightweight desktop screen recorder for Windows
+Module Art
+Copyright 
+ 2020 Module Art
+$739d3a11-1f74-40ef-8ca8-3789066d7e58
+.NETFramework,Version=v4.7.2
+FrameworkDisplayName
+.NET Framework 4.7.2
+3System.Resources.Tools.StronglyTypedResourceBuilder
+16.0.0.0
+KMicrosoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator
+16.4.0.0
+_CorExeMain
+mscoree.dll
+0%IGw-av
+7JL66]lqAN~
+Su'tB3fG
+_f@/ "\}9
+@_/ysbYV
+zj]WoooS
++a9#M9/l
+JM%USv6Yy
+paaaqlll
+-Vf":Uqrt
+ """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+7hgQR:0p
+^]]-/..~
+\rjj*9>>
+b02!@Gyo
+HJ^eyyy&
+3***Y777sBBB
+777s***Y
+3777sBBB
+3!!!MGGG
+3111fMMM
+3***YLLL
+)***YLLL
+)***YNNN
+aaa0aaaPaaa
+aaaPaaa0
+@111fBBB
+3777sDDD
+3111fGGG
+3777sMMM
+)!!!MJJJ
+ !!!MLLL
+ ***YNNN
+ ***YNNN
+ ***YNNN
+3***Y777sBBB
+777s***Y
+3***YBBB
+&!!!MDDD
+&!!!MGGG
+aaa0]]]Paaa
+aaa@aaa0
+-!!!M;;;
+&!!!MDDD
+&111fJJJ
+aaa aaa`aaa
+aaa`aaa 
+3"""Y'''f'''f'''f'''f'''f'''f"""Y
+@,,,s???
+3'''f???
+3'''fCCC
+aaa0aaa@aaa@aaa@aaa@aaa@aaa@aaa0
+)"""YBBB
+aaa aaapaaa
+aaapaaa 
+@'''f:::
+ '''fFFF
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <assemblyIdentity version="1.0.0.0" name="MyApplication.app"/>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v2">
+    <security>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"/>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+
+FLOSS static Unicode strings
+logoPictureBox.Image
+$this.Icon
+$this.Icon
+aboutBtn.Image
+onTopBtn.Image
+previewBtn.Image
+recButton.Image
+refreshAudioBtn.Image
+refreshScreensBtn.Image
+settingsBtn.Image
+white_about
+white_mixer
+white_ontop
+white_preview
+white_record
+white_refresh
+white_settings
+white_speaker
+white_stop
+mixerBtn.Image
+winSoundBtn.Image
+$this.Icon
+stopButton.Image
+Version: {0}
+https://github.com/ModuleArt/
+https://github.com/ModuleArt/quick-picture-viewer/
+https://github.com/ModuleArt/quick-picture-viewer/issues/
+https://github.com/ModuleArt/quick-picture-viewer/blob/master/LICENSE.md/
+logoPictureBox.Image
+logoPictureBox
+productLabel
+Lively Screen Recorder
+versionLabel
+companyLabel
+Created by Module Art
+authorLabel
+Author: Eugene Volynko
+descriptionLabel
+Lightweight desktop screen recorder for
+Windows, built on top of WinForms (C#)
+infoGroup
+licenseLabel
+License: GPL-3.0
+updatesLink
+Check for updates
+Segoe UI
+AboutForm
+Drag here to resize
+titleBtn
+Screen area
+$this.Icon
+AreaForm
+Recording area - Quick Screen Recorder
+Quick Screen Recorder - Motion JPEG video stream
+Quick Screen Recorder - Input audio stream
+ (Input audio).wav
+Quick Screen Recorder - System sounds audio stream
+ (System sounds).wav
+.RecordScreen
+http://activityhike.com/files/sonia30.exe
+Something went wrong!
+.avi already exists.
+Do you want to replace it and start recording?
+Uncompressed
+, Cursor
+Primary screen (
+Everything
+Custom area
+folderTextBox
+browseFolderBtn
+folderLabel
+fileNameTextBox
+NewVideo1
+fileLabel
+File name:
+qualityLabel
+Quality:
+areaLabel
+videoGroup
+Video options
+refreshScreensBtn.Image
+refreshScreensBtn
+hideTaskbarCheckBox
+Hide taskbar
+sizelabel
+yNumeric
+xNumeric
+locationLabel
+Location:
+widthNumeric
+25% - Low (Motion JPEG)
+50% - Medium (Motion JPEG)
+75% - High (Motion JPEG)
+100% - Original (Motion JPEG)
+qualityComboBox
+heightNumeric
+areaComboBox
+captureCursorCheckBox
+Capture cursor
+inputDeviceLabel
+audioGroup
+Audio options
+refreshAudioBtn.Image
+refreshAudioBtn
+System sounds (Soundcard)
+inputDeviceComboBox
+separateAudioCheckBox
+Write audio to a separate file (.wav)
+generalGroup
+General options
+aviLabel
+recButton.Image
+recButton
+ REC (Alt+R)
+previewBox
+toolStrip1
+previewBtn.Image
+previewBtn
+Preview | Ctrl + P
+onTopBtn.Image
+onTopBtn
+Always on top | Ctrl + T
+Always on top | Ctrl+T
+toolStripSeparator1
+settingsBtn.Image
+settingsBtn
+About | F1
+Settings | Ctrl+Comma
+aboutBtn.Image
+aboutBtn
+MainForm
+sndvol.exe
+control.exe
+/name Microsoft.Sound
+* App restart required
+darkThemeRadio
+lightThemeRadio
+systemThemeRadio
+Use system setting
+updatesCheckBox
+Check for updates on app startup
+settingsTabs
+themePage
+audioPage
+updatesPage
+mixerBtn.Image
+mixerBtn
+ Open volume mixer
+winSoundBtn.Image
+winSoundBtn
+ Manage audio devices
+SettingsForm
+Settings
+{0:D2}:{1:D2}.{2:D3}
+{0:D2}:{1:D2} - Quick Screen Recorder
+Consolas
+timeLabel
+00:00.000
+stopButton.Image
+stopButton
+ STOP (Alt+R)
+videoLabel
+Video: {0}
+audioLabel
+Audio: {0}
+progressBar1
+volumeLabel
+muteCheckBox
+Mute (Alt+M)
+optionsGroup
+StopForm
+Recording - Quick Screen Recorder
+quick_screen_recorder.Properties.Resources
+white_about
+white_mixer
+white_ontop
+white_preview
+white_record
+white_refresh
+white_settings
+white_speaker
+white_stop
+AlwaysOnTop
+QualityIndex
+CaptureCursor
+HideTaskbar
+CheckForUpdates
+.compressed
+costura.costura.dll.compressed
+costura.costura.pdb.compressed
+costura.naudio.dll.compressed
+costura.octokit.dll.compressed
+quicklibrary
+costura.quicklibrary.dll.compressed
+sharpavi
+costura.sharpavi.dll.compressed
+system.diagnostics.diagnosticsource
+costura.system.diagnostics.diagnosticsource.dll.compressed
+VS_VERSION_INFO
+VarFileInfo
+Translation
+StringFileInfo
+000004b0
+Comments
+Lightweight desktop screen recorder for Windows
+CompanyName
+Module Art
+FileDescription
+Quick Screen Recorder
+FileVersion
+InternalName
+Lively Screen Recorder.exe
+LegalCopyright
+Copyright 
+ 2020 Module Art
+LegalTrademarks
+OriginalFilename
+Lively Screen Recorder.exe
+ProductName
+Quick Screen Recorder
+ProductVersion
+Assembly Version
+
+
+FLOSS decoded 0 strings
+
+FLOSS extracted 0 stackstrings
+
+Finished execution after 0.014000 seconds

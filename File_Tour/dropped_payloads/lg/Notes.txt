@@ -1,0 +1,6 @@
+SHA256: 68d1b6dbfc303f1949267ce03ac2164ee9cda951231e72e6a5e39a44764ebbf2
+
+MD5: adfe31c40569ca5b0b403f0ba3f7b24c
+
+
+Executed with -a, identified as malware by AVs

@@ -1,0 +1,12 @@
+Appears to be a cookie stealer - checks the cookies for all available browsers.
+
+Self-modifying according to PEStudio
+
+No blacklisted libraries/functions
+
+Four blacklisted strings but nothing too suspicious - XMR, 245, 238, 205. Floss could not be used for the extraction due to a Null static unicode string extraction that ended the process.
+
+Execution shows no obvious signs.
+
+SHA256: de95d03777407422fac23d6c1f0740e131a0d38c5ef19aca742c7bcf1a994fd7
+MD5: 53b01ccd65893036e6e73376605da1e2
