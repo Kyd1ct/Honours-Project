@@ -7,6 +7,7 @@ The main directory contains the generic cyber incident response plan (CIRP.docx)
 The questionnaire folder contains the questionnaire questions (Questionnaire.docx) - Results were omitted for data privacy reasons and will be summarised in the dissertation.
 
 The malware folder contains four additional folders:
+
 	- File_Tour -  contains screenshots, dropped payload, and memory forensics folders. The extracted strings, analysis report, incident response plan module, and Yara rule are in its main folder.
 
 	- Jigsaw -  contains screenshots, dropped payload, and memory forensics folders. The extracted strings, analysis report, incident response plan module, and Yara rule are in its main folder.
