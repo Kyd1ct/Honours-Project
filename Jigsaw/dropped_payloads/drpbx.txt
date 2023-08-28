@@ -1,0 +1,629 @@
+FLOSS static ASCII strings
+!This program cannot be run in DOS mode.
+!mmUPp`B
+9$[4Elm&[h
+*4luG{u+A
+\U+05n9D
+K)FJOvKU
+14C9}h4?,
+5RY+|}9H
+\0=UK|u{
+g2pt|.p[
+)_Dbr!dP
+arWGh=>p
+ &O5.{*r
+*L+}lqx(
+ASX9S"4|}B
+`m:02Y]t
+[Y\xv24)
+z|-`rbYX
+REoS- 	5_
+Tr'oa4B=
+"^SQ|q~"
+,I{{ykbj
+\:WT=OU2
+#fL	hpP09
+*m[;yMz6
+(<G+GxD6
+fWIl@/T1
+eRGx+=F]
+LZJCUku\
+WBsP?Qy0~
+[]l/:O|O
+ I!8D&'@
+nW;Hp@;dK
+j"%W,d1#
+1]"*;w(J"
+t@,{x.Pg
+4~~/9v-p
+|f3'W1;)
+# W(Lyf(
+jU-fdm<H-^Y
+\n?+A$>f
+H\TlZZR:
+.X7''DCLr
+uB[MhiyT
+_CorExeMain
+mscoree.dll
+v2.0.50727
+#Strings
+BitcoinBlackmailer.exe
+<Module>
+mscorlib
+Assembly
+System.Reflection
+ResolveEventArgs
+VirtualProtect
+kernel32.dll
+ValueType
+System.IO
+<>f__AnonymousType0`2
+<file>j__TPar
+<ext>j__TPar
+<file>i__Field
+<ext>i__Field
+get_file
+GetHashCode
+ToString
+IFormatProvider
+<>f__AnonymousType1`2
+<fi>j__TPar
+<fi>i__Field
+AssemblyProdutAndTitle
+AssemblyCopyright
+AssemblyVersion
+EncryptionFileExtension
+MaxFilesizeToEncryptInBytes
+EncryptionPassword
+StartMode
+ErrorMessage
+ErrorTitle
+StartupMethod
+TempExeRelativePath
+TempExePath
+FinalExeRelativePath
+FinalExePath
+WorkFolderRelativePath
+WorkFolderPath
+OnlyRunAfterSysRestart
+ActiveAfterDateTime
+DateTime
+Activated
+TimerActivateCheckerInterval
+WelcomeMessage
+TaskMessage
+RansomUsd
+Environment
+SpecialFolder
+StartModeType
+NothingHappens
+DeleteItself
+FormBackground
+System.Windows.Forms
+components
+IContainer
+System.ComponentModel
+timerActivateChecker
+timerActivateChecker_Tick
+EventArgs
+ImposeRestrictions
+disposing
+InitializeComponent
+IWin32Window
+IDisposable
+Container
+EventHandler
+FormEncryptedFiles
+dataGridViewEncryptedFiles
+DataGridView
+ColumnDeleted
+DataGridViewTextBoxColumn
+ColumnPath
+FormEncryptedFiles_Load
+DataGridViewRowCollection
+ISupportInitialize
+DataGridViewColumnHeadersHeightSizeMode
+DataGridViewColumnCollection
+DataGridViewColumn
+DockStyle
+FormGame
+_timeLeftSec
+_exponent
+_indexNum
+labelWelcome
+timerTypingEffect
+labelTask
+textBoxAddress
+buttonCheckPayment
+buttonViewEncryptedFiles
+timerCountDown
+labelCountDown
+labelFilesToDelete
+FormGame_Load
+DeleteFiles
+GetBitcoinAddess
+get_CreateParams
+CreateParams
+FormGame_FormClosing
+FormClosingEventArgs
+timerTypingEffect_Tick
+buttonCheckPayment_Click
+buttonViewEncryptedFiles_Click
+timerCountDown_Tick
+FormStartPosition
+TextBoxBase
+StringSplitOptions
+CancelEventArgs
+DialogResult
+System.Drawing
+FontStyle
+GraphicsUnit
+<>9__8_0
+System.Core
+<GetBitcoinAddess>b__8_0
+Resources
+Main.Properties
+resourceMan
+ResourceManager
+System.Resources
+resourceCulture
+CultureInfo
+System.Globalization
+get_ResourceManager
+get_Culture
+set_Culture
+get_ExtensionsToEncrypt
+get_Jigsaw
+get_StartModeDebug
+get_vanityAddresses
+RuntimeTypeHandle
+ExtensionsToEncrypt
+StartModeDebug
+vanityAddresses
+Settings
+ApplicationSettingsBase
+System.Configuration
+defaultInstance
+get_Default
+SettingsBase
+Main.Tools
+get_BlockrAddress
+GetPrice
+GetBalanceBtc
+WebClient
+System.Net
+Newtonsoft.Json
+Newtonsoft.Json.Linq
+Exception
+BlockrAddress
+InitSoftware
+startMode
+ExeSmartCopy
+targetExePath
+overwrite
+ShouldActivate
+RemoveItself
+lpCmdLine
+uCmdShow
+DirectoryInfo
+System.Diagnostics
+MessageBoxButtons
+MessageBoxIcon
+Encoding
+System.Text
+StreamWriter
+TextWriter
+<>c__DisplayClass0_0
+exeFolderPath
+<InitSoftware>b__0
+ProcessModule
+EncryptedFileListPath
+EncryptedFiles
+HashSet`1
+System.Collections.Generic
+EncryptFileSystem
+GetEncryptedFiles
+CreateFileSystemSimulation
+GetExtensionsToEncrypt
+IEnumerable`1
+GetFiles
+EncryptFiles
+encryptionExtension
+extensionsToEncrypt
+DecryptFiles
+EncryptFile
+DecryptFile
+SymmetricAlgorithm
+System.Security.Cryptography
+inputFile
+outputFile
+DriveInfo
+IEnumerator
+System.Collections
+StringComparison
+AesCryptoServiceProvider
+RuntimeFieldHandle
+FileStream
+FileMode
+ICryptoTransform
+CryptoStream
+CryptoStreamMode
+<>9__4_0
+<>9__9_1
+<>9__9_2
+<>9__9_3
+<>9__9_4
+FileInfo
+<>9__9_5
+<>9__9_6
+<EncryptFileSystem>b__4_0
+<EncryptFiles>b__9_1
+<EncryptFiles>b__9_2
+<>h__TransparentIdentifier0
+<EncryptFiles>b__9_3
+<EncryptFiles>b__9_4
+<EncryptFiles>b__9_5
+<EncryptFiles>b__9_6
+FileSystemInfo
+<GetFiles>d__8
+IEnumerable
+IEnumerator`1
+<>1__state
+<>2__current
+<>l__initialThreadId
+<>3__path
+<queue>5__1
+<>7__wrap1
+<>7__wrap2
+System.IDisposable.Dispose
+MoveNext
+System.Collections.Generic.IEnumerator<System.String>.get_Current
+get_Current
+System.Collections.IEnumerator.Reset
+System.Collections.IEnumerator.get_Current
+System.Collections.Generic.IEnumerable<System.String>.GetEnumerator
+GetEnumerator
+System.Collections.IEnumerable.GetEnumerator
+System.Threading
+NotSupportedException
+System.Collections.Generic.IEnumerator<System.String>.Current
+System.Collections.IEnumerator.Current
+<>c__DisplayClass9_0
+<EncryptFiles>b__0
+HWND_TOPMOST
+SWP_NOSIZE
+SWP_NOMOVE
+SetStartup
+startupMethod
+SetStartupFolder
+SetStartupRegistry
+RemoveStartupRegistry
+SetWindowPos
+user32.dll
+hWndInsertAfter
+MakeTopMost
+RegistryKey
+Microsoft.Win32
+StartupMethodType
+StartupFolder
+Registry
+<PrivateImplementationDetails>
+FBD2112E56A53790B3D53B084795822F604F11FC
+__StaticArrayInitTypeSize=16
+AssemblyLoader
+nullCache
+Dictionary`2
+assemblyNames
+symbolNames
+CS$<>9__CachedAnonymousMethodDelegate1
+ResolveEventHandler
+CultureToString
+ReadExistingAssembly
+AssemblyName
+destination
+LoadStream
+fullname
+resourceNames
+ReadStream
+ReadFromEmbeddedResources
+requestedAssemblyName
+ResolveAssembly
+assemblyName
+<Attach>b__0
+AppDomain
+DeflateStream
+System.IO.Compression
+CompressionMode
+MemoryStream
+AssemblyNameFlags
+ProcessedByFody
+ConfusedByAttribute
+Attribute
+BitcoinBlackmailer
+AssemblyTrademarkAttribute
+AssemblyCopyrightAttribute
+AssemblyProductAttribute
+AssemblyCompanyAttribute
+AssemblyConfigurationAttribute
+AssemblyDescriptionAttribute
+AssemblyTitleAttribute
+DebuggableAttribute
+DebuggingModes
+RuntimeCompatibilityAttribute
+System.Runtime.CompilerServices
+CompilationRelaxationsAttribute
+ComVisibleAttribute
+System.Runtime.InteropServices
+AssemblyFileVersionAttribute
+CompilerGeneratedAttribute
+DebuggerBrowsableAttribute
+DebuggerBrowsableState
+DebuggerHiddenAttribute
+STAThreadAttribute
+DebuggerNonUserCodeAttribute
+GeneratedCodeAttribute
+System.CodeDom.Compiler
+EditorBrowsableAttribute
+EditorBrowsableState
+Main.Properties.Resources.resources
+QbZlczhiHcyXUZulvpHjfBbHhhxY
+costura.newtonsoft.json.dll.zip
+ReadByte
+get_Length
+RuntimeHelpers
+InitializeArray
+get_CurrentDomain
+add_AssemblyResolve
+get_FullName
+get_Name
+op_Equality
+GetTypeFromHandle
+get_Module
+get_FullyQualifiedName
+get_Chars
+GetHINSTANCE
+op_Explicit
+BlockCopy
+EqualityComparer`1
+get_NewLine
+Directory
+CreateDirectory
+GetFolderPath
+ContainerControl
+set_AutoScaleDimensions
+set_AutoScaleMode
+AutoScaleMode
+set_ClientSize
+set_Name
+set_Text
+ResumeLayout
+set_Interval
+set_Enabled
+SuspendLayout
+add_Tick
+Enumerator
+set_Location
+set_Size
+set_TabIndex
+set_HeaderText
+DataGridViewBand
+set_ReadOnly
+set_Width
+get_Controls
+ControlCollection
+add_Load
+get_Rows
+BeginInit
+set_ColumnHeadersHeightSizeMode
+get_Columns
+AddRange
+set_Dock
+Enumerable
+System.Linq
+IOrderedEnumerable`1
+FirstOrDefault
+get_Lime
+get_Tomato
+get_Black
+set_AutoSize
+set_BackColor
+set_Font
+set_ForeColor
+get_Gold
+ButtonBase
+set_UseVisualStyleBackColor
+add_Click
+get_Gray
+set_BorderStyle
+BorderStyle
+get_DarkRed
+set_BackgroundImage
+FormClosingEventHandler
+add_FormClosing
+PerformLayout
+set_MaximizeBox
+set_MinimizeBox
+set_StartPosition
+set_Visible
+WriteAllText
+ReadAllText
+get_ClassStyle
+set_ClassStyle
+set_Cancel
+MessageBox
+Substring
+Application
+get_Assembly
+GetString
+GetObject
+Synchronized
+DownloadString
+get_Item
+op_GreaterThan
+IsPathRooted
+GetFileNameWithoutExtension
+GetParent
+GetProcessesByName
+GetFileName
+get_ExecutablePath
+GetDirectoryName
+get_MainModule
+get_FileName
+StartsWith
+SelectMany
+GetDrives
+WriteAllLines
+ReadAllLines
+WriteLine
+FromBase64String
+EndsWith
+CreateEncryptor
+CreateDecryptor
+get_RootDirectory
+get_Count
+get_CurrentThread
+get_ManagedThreadId
+GetDirectories
+get_Error
+CurrentUser
+OpenSubKey
+SetValue
+DeleteValue
+get_Handle
+TryGetValue
+ContainsKey
+GetAssemblies
+get_CultureInfo
+GetExecutingAssembly
+GetManifestResourceStream
+set_Position
+ToLowerInvariant
+IsNullOrEmpty
+get_Flags
+ConfuserEx v0.6.0
+ICopyright 1999-2012 Firefox and Mozzilla developers. All rights reserved.
+WrapNonExceptionThrows
+37.0.2.5583
+3System.Resources.Tools.StronglyTypedResourceBuilder
+KMicrosoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator
+14.0.0.0
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <assemblyIdentity version="1.0.0.0" name="MyApplication.app"/>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v2">
+    <security>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"/>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+
+FLOSS static Unicode strings
+{{ file = {0}, ext = {1} }}
+{{ file = {0}, fi = {1} }}
+Congratulations. Your software has been registered. Confirmation code 994759
+Email us this code in the chat to active your software. It can take up to 48 hours.
+Thank you
+Drpbx\drpbx.exe
+Frfx\firefox.exe
+System32Work\
+Your computer files have been encrypted. Your photos, videos, documents, etc....
+But, don't worry! I have not deleted them, yet.
+You have 24 hours to pay 150 USD in Bitcoins to get the decryption key.
+Every hour files will be deleted. Increasing in amount every time.
+After 72 hours all that are left will be deleted.
+If you do not have bitcoins Google the website localbitcoins.
+Purchase 150 American Dollars worth of Bitcoins or .4 BTC. The system will accept either one.
+Send to the Bitcoins address specified.
+Within two minutes of receiving your payment your computer will receive the decryption key and return to normal.
+Try anything funny and the computer has several safety measures to delete your files.
+As soon as the payment is received the crypted files will be returned to normal.
+       Thank you        
+Please, send $
+ worth of Bitcoin here:
+FormBackground
+dataGridViewEncryptedFiles
+ColumnDeleted
+ColumnPath
+FormEncryptedFiles
+EncryptedFiles
+Address.txt
+You are about to make a very bad decision. Are you sure about it?
+Great job, I'm decrypting your files...
+Decrypting your files. It will take for a while. After done I will close and completely remove myself from your computer.
+Great job
+You did not sent me enough! Try again!
+You haven't made payment yet! Try again!
+Are you connected to the internet? Try again!
+ files will be deleted
+Lucida Console
+labelWelcome
+I want to play a game
+labelTask
+All you have to do...
+textBoxAddress
+12Xspzstah37626slkwKhsKSHA
+buttonCheckPayment
+I made a payment, now give me back my files!
+buttonViewEncryptedFiles
+View encrypted files
+Lucida Sans Unicode
+labelCountDown
+labelFilesToDelete
+1 file will be deleted.
+FormGame
+Main.Properties.Resources
+ExtensionsToEncrypt
+StartModeDebug
+vanityAddresses
+http://btc.blockr.io/api/v1/
+coin/info/
+coinbase
+address/balance/
+\DeleteItself.bat
+ del "{0}"
+if exist "{0}" goto del
+FileSystemSimulation
+TxtTest.txt
+I am a txt test.
+NotTxtTest.nottxt
+I am NOT a txt test.
+C:\Windows
+OoIsAwwF23cICQoLDA0ODe==
+EncryptedFileList.txt
+SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+newtonsoft.json
+costura.newtonsoft.json.dll.zip
+Copyright 1999-2012 Firefox and Mozzilla developers. All rights reserved.
+37.0.2.5583
+OoIsAwwF23cICQoLDA0ODe==
+VS_VERSION_INFO
+VarFileInfo
+Translation
+StringFileInfo
+000004b0
+Comments
+CompanyName
+FileDescription
+FileVersion
+37.0.2.5583
+InternalName
+BitcoinBlackmailer.exe
+LegalCopyright
+Copyright 1999-2012 Firefox and Mozzilla developers. All rights reserved.
+LegalTrademarks
+OriginalFilename
+BitcoinBlackmailer.exe
+ProductName
+ProductVersion
+37.0.2.5583
+Assembly Version
+37.0.2.5583
+
+
+FLOSS decoded 0 strings
+
+FLOSS extracted 0 stackstrings
+
+Finished execution after 0.031000 seconds
