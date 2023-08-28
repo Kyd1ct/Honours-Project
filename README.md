@@ -1,4 +1,4 @@
-# Honours-Project
+# An Evaluation of Modular Incident Response Plans for Efficient Cyber Incident Mitigation in Businesses
 Honours Project for my final year in university, covering Incident Response, Digital Forensics and Malware Analysis.
 The Honours Project artefacts are split into three folders - main, questionnaire and malware folders.
 
